@@ -31,10 +31,17 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: "*Journal of Source Themes, 1*(1)"
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+publication: "*Journal of Hazardous Materials, 443*(A)"
+summary: >-
+  Highlights
+
+  • Transcriptomic analysis revealed the toxic mechanism of PH3 using A. thaliana.
+
+  • The phytotoxicity of PH3 was correlated with hypoxia stress and energy metabolism.
+
+  • As per the light conditions, PH3 showed an opposite phytotoxic pattern.
+
+  • PH3 had the property of inducing hypoxia adaptive genes like ethylene.
 url_dataset: ""
 url_project: ""
 publication_short: ""
@@ -58,7 +65,7 @@ image:
   filename: https://ars.els-cdn.com/content/image/1-s2.0-S0304389422019355-ga1.jpg
 date: 2022-11-22T11:11:17.415Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
