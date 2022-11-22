@@ -20,9 +20,9 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=t1KDNnUAAAAJ&hl=ko&oi=ao
-  - icon: github
+  - icon: researchgate
     icon_pack: fab
-    link: https://www.researchgate.net/profile/Kyeongnam-Kim?ev=hdr_xprf&_sg=iCuc--nM3VnCIDpmgM88zlpj-rkPhIz0mhxW0K1JhKm4ig2o5HxJwG9Q0jKpx9BMcmdc7SMfUTy2Nl6fAnYgtVKo
+    link: https://www.researchgate.net/profile/Kyeongnam-Kim
     display:
       header: false
   - icon: linkedin
