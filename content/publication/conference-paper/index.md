@@ -1,79 +1,75 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+abstract: Phosphine (PH3) is an ideal fumigant alternative on methyl bromide
+  (MB) as MB has been classified as an ozone-depleting substance. However,
+  several challenges limit its efficient use in crop production, including the
+  emergence of PH3-resistant insect pests and the incidence of phytotoxic
+  effects on nursery plants. Therefore, this study aims to elucidate the
+  mechanism underlying PH3 phytotoxicity in plants using transcriptomic
+  techniques. Fumigation with 2 g/m3 PH3 induced phytotoxic effects in A.
+  thaliana, as evidenced by a decrease in growth and vegetation indices compared
+  to the control group. Transcriptomic analysis revealed that PH3 fumigation
+  phytotoxicity responses in A. thaliana involve genes related to hypoxia stress
+  and energy metabolism. Additionally, pretreatment with ethylene induced
+  pre-adaptation to hypoxia under light conditions during fumigation effectively
+  suppressed the phytotoxic effects of PH3 in A. thaliana by increasing the
+  expression of hypoxia-adaptive genes. Moreover, the phytotoxicity of PH3 was
+  also confirmed in pumpkin (Cucurbita moschata Duch.), and was dependent on
+  light. Overall, our findings showed that fumigation under light conditions and
+  ethylene pretreatment could be used to minimize PH3-induced phytotoxic effects
+  in plants.
+slides: example
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
   - admin
-  - Robert Ford
-
-# Author notes (optional)
+  - Chaeeun Kim
+  - Jinsung Yoo
+  - Jun-Ran Kim
+  - Yoon-Ha Kim
+  - Sung-Eun Lee
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - Equal contribution
+  - Equal contribution
+publication: In *Journal of Hazadous Materials*
+summary: >-
+  *Highlights*
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+  • Transcriptomic analysis revealed the toxic mechanism of PH3 using A. thaliana.
 
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+  • The phytotoxicity of PH3 was correlated with hypoxia stress and energy metabolism.
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
+  • As per the light conditions, PH3 showed an opposite phytotoxic pattern.
 
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  • PH3 had the property of inducing hypoxia adaptive genes like ethylene.
+url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+url_project: ""
+publication_short: In *J Hazard Mater*
+url_source: https://github.com/wowchemy/wowchemy-hugo-themes
+url_video: https://youtube.com
+title: "Phosphine gas in the dark induces severe phytotoxicity in Arabidopsis
+  thaliana by increasing a hypoxia stress response and disrupting the energy
+  metabolism: Transcriptomic approaches"
+subtitle: ""
+doi: https://doi.org/10.1016/j.jhazmat.2022.130141
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
+tags:
+  - phosphine
+  - A.thaliana
+categories:
+  - Plant
 projects:
   - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  focal_point: ""
+  preview_only: false
+  filename: https://ars.els-cdn.com/content/image/1-s2.0-S0304389422019355-ga1_lrg.jpg
+date: 2013-07-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
 
 {{% callout note %}}
