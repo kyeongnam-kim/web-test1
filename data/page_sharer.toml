@@ -34,11 +34,11 @@
   enable = true
 
 [[buttons]]
-  id = "whatsapp"
-  url = "whatsapp://send?text={title}%20{url}"
-  title = "WhatsApp"
+  id = "researchgate"
+  url = "https://www.researchgate.net/profile/Kyeongnam-Kim"
+  title = "Researchgate"
   icon_pack = "fab"
-  icon = "whatsapp"
+  icon = "researchgate"
   enable = true
 
 [[buttons]]
