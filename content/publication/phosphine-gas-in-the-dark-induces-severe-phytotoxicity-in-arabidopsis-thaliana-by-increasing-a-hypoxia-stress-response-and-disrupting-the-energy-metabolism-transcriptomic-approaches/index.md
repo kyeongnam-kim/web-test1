@@ -24,33 +24,35 @@ publication_types:
 authors:
   - Kyeongnam Kim
   - Chaeeun Kim
-  - Jinsung Yoo
-  - Jun-Ran Kim
+  - Jungeun Park
+  - Hwang-ju Jeon
+  - Young Ju Park
   - Yoon-Ha Kim
+  - Jeong Oh Yang
   - Sung-Eun Lee
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: "*Journal of Hazardous Materials, 443*(A)"
+publication: "*Journal of Hazardous Materials, 419*"
 summary: >-
   Highlights
 
-  • Transcriptomic analysis revealed the toxic mechanism of PH3 using A. thaliana.
+  • MB, an ozone-depleting substance, has been used as a vital fumigant in quarantine.
 
-  • The phytotoxicity of PH3 was correlated with hypoxia stress and energy metabolism.
+  • MB phytotoxicity was evaluated using A. thaliana to understand a molecular mechanism.
 
-  • As per the light conditions, PH3 showed an opposite phytotoxic pattern.
+  • The 4 h-MB fumigation at 40 mg/L caused severe phytotoxicity in all evaluation indicators.
 
-  • PH3 had the property of inducing hypoxia adaptive genes like ethylene.
+  •Transcriptomic analysis revealed that ROS and auxin distribution are strongly related to phytotoxicity.
 url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: "Phosphine gas in the dark induces severe phytotoxicity in Arabidopsis
-  thaliana by increasing a hypoxia stress response and disrupting the energy
-  metabolism: Transcriptomic approaches"
-doi: https://doi.org/10.1016/j.jhazmat.2022.130141
+title: Transcriptomic evaluation on methyl bromide-induced phytotoxicity in
+  Arabidopsis thaliana and its mode of phytotoxic action via the occurrence of
+  reactive oxygen species and uneven distribution of auxin hormones
+doi: https://doi.org/10.1016/j.jhazmat.2021.126419
 featured: false
 tags:
   - phosphine
@@ -62,8 +64,8 @@ image:
   caption: ""
   focal_point: smart
   preview_only: false
-  filename: https://ars.els-cdn.com/content/image/1-s2.0-S0304389422019355-ga1.jpg
-date: 2023-02-05T11:11:00.000Z
+  filename: https://ars.els-cdn.com/content/image/1-s2.0-S0304389421013844-ga1.jpg
+date: 2021-10-05T11:11:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
