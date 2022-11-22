@@ -44,7 +44,7 @@ summary: >-
   • PH3 had the property of inducing hypoxia adaptive genes like ethylene.
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
-publication_short: In *J Hazard Mater*
+publication_short: ""
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
 title: "Phosphine gas in the dark induces severe phytotoxicity in Arabidopsis
