@@ -6,7 +6,7 @@ bio: My research interests include agricultural and environmental toxicology.
 interests:
   - Molecular mechanism
   - Environmental toxicology
-  - ""
+  - Multi-Omics
 social:
   - icon: envelope
     icon_pack: fas
