@@ -29,8 +29,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Kyungpook National University
+    url: https://www.knu.ac.kr
 education:
   courses:
     - course: Ph.D. in Applied Biosciences – Environmental Toxicology
