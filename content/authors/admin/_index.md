@@ -25,9 +25,6 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
 organizations:
   - name: Kyungpook National University
     url: https://www.knu.ac.kr
