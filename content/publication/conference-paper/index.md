@@ -56,6 +56,8 @@ featured: true
 tags:
   - phosphine
   - A.thaliana
+  - Fumigant
+  - Transcriptomics
 categories:
   - Plant
 projects:
