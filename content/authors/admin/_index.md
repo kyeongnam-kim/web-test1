@@ -11,20 +11,20 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Kyeongnam-Kim
+    display:
+      header: false
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=t1KDNnUAAAAJ&hl=ko&oi=ao
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Kyeongnam_Kim
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=t1KDNnUAAAAJ&hl=ko&oi=ao
-  - icon: researchgate
-    icon_pack: fab
-    link: https://www.researchgate.net/profile/Kyeongnam-Kim
-    display:
-      header: false
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
