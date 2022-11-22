@@ -20,9 +20,11 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=t1KDNnUAAAAJ&hl=ko&oi=ao
-  - icon: github
+  - icon: reserchgate
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://www.researchgate.net/profile/Kyeongnam-Kim?ev=hdr_xprf&_sg=iCuc--nM3VnCIDpmgM88zlpj-rkPhIz0mhxW0K1JhKm4ig2o5HxJwG9Q0jKpx9BMcmdc7SMfUTy2Nl6fAnYgtVKo
+    display:
+      header: false
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -31,15 +33,15 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in Applied Biosciences – Environmental Toxicology
+      institution: Kyungpook National University
+      year: 2022
+    - course: M.S. in Applied Biosciences – Environmental Toxicology
+      institution: Kyungpook National University
+      year: 2018
+    - course: B.S. in Applied Biosciences – Molecular Microbiology
+      institution: Kyungpook National University
+      year: 2015
 superuser: true
 last_name: Bighetti
 highlight_name: true
