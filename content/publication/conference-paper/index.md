@@ -31,7 +31,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: In *Journal of Hazadous Materials*
+publication: "*Journal of Hazadous Materials*"
 summary: >-
   *Highlights*
 
