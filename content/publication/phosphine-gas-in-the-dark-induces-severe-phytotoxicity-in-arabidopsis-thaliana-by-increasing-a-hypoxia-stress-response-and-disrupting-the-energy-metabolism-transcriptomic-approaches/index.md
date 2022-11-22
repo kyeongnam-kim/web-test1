@@ -1,22 +1,23 @@
 ---
-abstract: Phosphine (PH3) is an ideal fumigant alternative on methyl bromide
-  (MB) as MB has been classified as an ozone-depleting substance. However,
-  several challenges limit its efficient use in crop production, including the
-  emergence of PH3-resistant insect pests and the incidence of phytotoxic
-  effects on nursery plants. Therefore, this study aims to elucidate the
-  mechanism underlying PH3 phytotoxicity in plants using transcriptomic
-  techniques. Fumigation with 2 g/m3 PH3 induced phytotoxic effects in A.
-  thaliana, as evidenced by a decrease in growth and vegetation indices compared
-  to the control group. Transcriptomic analysis revealed that PH3 fumigation
-  phytotoxicity responses in A. thaliana involve genes related to hypoxia stress
-  and energy metabolism. Additionally, pretreatment with ethylene induced
-  pre-adaptation to hypoxia under light conditions during fumigation effectively
-  suppressed the phytotoxic effects of PH3 in A. thaliana by increasing the
-  expression of hypoxia-adaptive genes. Moreover, the phytotoxicity of PH3 was
-  also confirmed in pumpkin (Cucurbita moschata Duch.), and was dependent on
-  light. Overall, our findings showed that fumigation under light conditions and
-  ethylene pretreatment could be used to minimize PH3-induced phytotoxic effects
-  in plants.
+abstract: The increase in worldwide trade has caused the quality maintenance of
+  commercialized agriproducts to be crucial in keeping its economic value. In
+  recent years, methyl bromide (MB) has been used dominantly during quarantine
+  and pre-shipment, despite it being an environmental hazard with global
+  repercussions. Through this study, it was shown that Arabidopsis thaliana’s 2
+  h exposure to the MB treatment displayed no signs of phytotoxicity, whereas
+  its 4 h exposure significantly interfered with growth. The transcriptomic
+  analysis found the molecular modifications in A. thaliana after the MB
+  fumigation with the up-regulation of genes specifically relative to the
+  abiotic and oxidative stress, and the down-regulation of auxin transporter
+  genes. Some important gene expressions were verified by RT-qPCR and their
+  expression patterns were similar. Oxidative stresses via the reactive oxygen
+  species (ROS) in relation to MB phytotoxicity were confirmed with the
+  increased malondialdehyde in MB-4h-treated A. thaliana. Uneven distribution of
+  auxins via lower expression of auxin transporter genes was also determined
+  using UPLC-ESI-QqQ MS. Application of two ROS scavengers such as
+  N-acetyl-cysteine and L-glutathione minimized MB phytotoxic effect in A.
+  thaliana. Therefore, MB caused severe oxidative stress, and alternatives
+  regarding the use of MB should be considered.
 slides: example
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
@@ -55,8 +56,10 @@ title: Transcriptomic evaluation on methyl bromide-induced phytotoxicity in
 doi: https://doi.org/10.1016/j.jhazmat.2021.126419
 featured: false
 tags:
-  - phosphine
+  - Methyl bromide
   - A.thaliana
+  - Fumigant
+  - Transcriptomics
 categories:
   - Plant
 projects: []
