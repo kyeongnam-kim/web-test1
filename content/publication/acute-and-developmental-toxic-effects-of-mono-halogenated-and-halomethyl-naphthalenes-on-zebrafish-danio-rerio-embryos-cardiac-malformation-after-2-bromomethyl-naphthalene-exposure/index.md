@@ -68,7 +68,6 @@ image:
   preview_only: false
   filename: https://ars.els-cdn.com/content/image/1-s2.0-S026974912102368X-ga1.jpg
 date: 2022-03-14T16:40:17.597Z
-url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
