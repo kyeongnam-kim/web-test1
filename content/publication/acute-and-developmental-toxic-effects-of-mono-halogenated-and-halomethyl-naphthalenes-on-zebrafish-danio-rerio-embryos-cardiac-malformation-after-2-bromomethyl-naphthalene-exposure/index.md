@@ -55,12 +55,12 @@ title: "Acute and developmental toxic effects of mono-halogenated and halomethyl
 doi: https://doi.org/10.1016/j.envpol.2021.118786
 featured: false
 tags:
-  - Methyl bromide
-  - A.thaliana
-  - Fumigant
-  - Transcriptomics
+  - Zebrafish
+  - PAHs
+  - Pollutants
+  - Developmental toxicity
 categories:
-  - Plant
+  - FISH
 projects: []
 image:
   caption: ""
