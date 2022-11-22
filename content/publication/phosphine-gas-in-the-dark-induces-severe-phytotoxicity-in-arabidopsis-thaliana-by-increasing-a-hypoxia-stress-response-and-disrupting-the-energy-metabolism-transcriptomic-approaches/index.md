@@ -60,10 +60,10 @@ categories:
 projects: []
 image:
   caption: ""
-  focal_point: ""
+  focal_point: smart
   preview_only: false
   filename: https://ars.els-cdn.com/content/image/1-s2.0-S0304389422019355-ga1.jpg
-date: 2022-11-22T11:11:17.415Z
+date: 2023-02-05T11:11:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
