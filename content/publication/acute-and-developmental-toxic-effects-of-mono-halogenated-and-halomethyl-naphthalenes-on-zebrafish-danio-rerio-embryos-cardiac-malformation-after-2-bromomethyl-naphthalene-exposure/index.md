@@ -17,8 +17,6 @@ abstract: Polyhalogenated polycyclic aromatic hydrocarbons (HPAHs) represent a
   2-naphthylmethyl radical, may be responsible for the toxic effect on zebrafish
   embryos. HPAHs must be monitored and managed due to their adverse effects on
   living organisms at low concentrations.
-slides: example
-url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
 authors:
@@ -69,8 +67,6 @@ image:
   filename: https://ars.els-cdn.com/content/image/1-s2.0-S026974912102368X-ga1.jpg
 date: 2022-03-14T16:40:17.597Z
 publishDate: 2017-01-01T00:00:00.000Z
-url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
 
 {{% callout note %}}
