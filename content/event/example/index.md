@@ -27,7 +27,7 @@ event_url: https://www.entomology.or.kr/notice/view.php?idx=6988
 featured: false
 authors: []
 url_video: ""
-url_slides: "static/uploads/2022KSAE.pdf"
+url_slides: staticref "uploads/2022KSAE.pdf"
 address:
   street: 
   city: Gyeongju
