@@ -18,7 +18,7 @@ subtitle:
 feature:
   - description: 90%
     icon: hand-holding-seedling
-    icon_pack: fab
+    icon_pack: fa
     name: Handling of Eukaryotic Organisms 
   - description: 100%
     icon: microscope
