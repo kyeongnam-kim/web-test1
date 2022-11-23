@@ -14,8 +14,7 @@ authors:
   - Byung-Ho Lee
   - Jeong Oh Yang
   - Sung-Eun Lee
-author_notes:
-  - Equal contribution
+author_notes: []
 doi: https://doi.org/10.3390/app11219877
 publication: "*Appl Sci_Basel, 11(21)*"
 publication_short: ""
