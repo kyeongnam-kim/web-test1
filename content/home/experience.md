@@ -22,28 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Postdoctoral researcher / Instructor
+    company: Institute for Quality and Safety Assessment of Agricultural Products, KNU
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: KNU
+    location: Daegu
+    date_start: '2022-09-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Analysing OMICS data
+        * Developing *T. castaneum* mutant model using Crispr-Cas9
+        * Teaching undergraduate class 
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Postdoctoral researcher / Instructor
+    company: Department of Applied Biosciences (4th BK21 program), KNU
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: KNU
+    location: Daegu
+    date_start: '2022-03-01'
+    date_end: '2022-08-31'
+    description: Teaching undergraduate class - Analytical Organic Chemistry Experiment & Agricultural Food Hazardous Substances Informatics
 
 design:
   columns: '2'
