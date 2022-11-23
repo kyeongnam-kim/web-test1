@@ -31,7 +31,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: "*J Hazad Mater,443(A)*"
+publication: "*J Hazad Mater, 443(A)*"
 summary: IF, 14.224 (2021 JCR), *ENVIRONMENTAL SCIENCES - 3.05% (Q1)*
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
