@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 90%
-    icon: hand-holding-seedling
-    icon_pack: fa
+    icon: seedling
+    icon_pack: fas
     name: Handling of Eukaryotic Organisms 
   - description: 100%
     icon: microscope
