@@ -27,12 +27,12 @@ event_url: https://www.entomology.or.kr/notice/view.php?idx=6988
 featured: false
 authors: []
 url_video: ""
-url_slides: ""
+url_slides: "static/uploads/2022KSAE.pdf"
 address:
-  street: 450 Serra Mall
+  street: 
   city: Gyeongju
   region: 
-  postcode: "94305"
+  postcode: ""
   country: Korea
 links:
   - icon: twitter
