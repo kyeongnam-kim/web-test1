@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing OMICS data
+        * Analysing OMICs data
         * Developing *T. castaneum* mutant model using Crispr-Cas9
-        * Teaching undergraduate class 
+        * Teaching undergraduate class - Functional Cosmetics based on Natural Product
 
   - title: Postdoctoral researcher / Instructor
     company: Department of Applied Biosciences (4th BK21 program), KNU
