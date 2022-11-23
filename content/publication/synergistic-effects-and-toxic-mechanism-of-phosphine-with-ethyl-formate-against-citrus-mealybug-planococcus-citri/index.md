@@ -16,8 +16,6 @@ authors:
   - Sung-Eun Lee
 author_notes:
   - Equal contribution
-  - Equal contribution
-  - Equal contribution
 doi: https://doi.org/10.3390/app11219877
 publication: "*Appl Sci_Basel, 11(21)*"
 publication_short: ""
