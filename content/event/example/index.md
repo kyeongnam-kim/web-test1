@@ -16,7 +16,7 @@ abstract: >-
   mechanisms.
 slides: example
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: Phytotoxic mechanisms and reduction methods of major quarantine fumigants through transcriptome analysis
 title: Invited Talk - Recent Trends on Quarantine Fumigation Research
 location: LAHAN SELECT Hotel, Gyeongju, Korea
 date: 2022-10-26T05:40:09.276Z
