@@ -15,7 +15,7 @@ content:
   # Contact details (edit or remove options as required)
   email: kn1188@knu.ac.kr
   address:
-    street: 80 Daehak-ro, Bukgu
+    street: 80 Daehak-ro, Bukgu, Kyungpook National University (KNU)
     city: Daegu
     region: 
     postcode: '41566'
