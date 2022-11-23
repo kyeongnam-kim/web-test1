@@ -34,7 +34,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: "*Journal of Hazardous Materials, 419*"
+publication: "*J Hazad Mater, 419*"
 summary: >-
   Highlights
 
