@@ -1,8 +1,19 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam.
+abstract: >-
+  As global commerce expands, quarantine is becoming increasingly important to
+  limit the entry of pests
+
+  from other countries. Methyl bromide (MB) is the most global fumigant in the plant quarantine field, despite
+
+  being selected as an ozone-depleting substance through the Montreal protocol. The use of MB is essential
+
+  until alternatives to MB are established. The time and concentration standards of fumigants are set based on
+
+  the concentration-time (Ct) values from the bioassay using insect pests, but plants are also affected by fumigant in closed environment. However, the mechanism of phytotoxicity to fumigants was not yet well understood. In this study, Arabidopsis thaliana, model plant, was used to evaluate the phytotoxic effect under the quarantine standards, and the unknown toxic mechanism was investigated through transcriptomic analysis.
+
+  In addition, methods for reducing phytotoxicity were proposed in the study of transcriptome-based
+
+  mechanisms.
 slides: example
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
@@ -29,7 +40,12 @@ links:
     name: Follow
     url: https://twitter.com/georgecushen
 publishDate: 2022-10-26T07:26:29.933Z
-tags: []
+tags:
+  - Phytotoxicity
+  - Methyl bromide
+  - Phosphine
+  - Transcriptomics
+  - Mode of action
 projects:
   - example
 image:
