@@ -6,13 +6,13 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 slides: example
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
-title: Invited Talk
-location: Wowchemy HQ
-date: 2030-06-01T13:00:00Z
-date_end: 2030-06-01T15:00:00Z
+title: Invited Talk - Recent Trends on Quarantine Fumigation Research
+location: LAHAN SELECT Hotel, Gyeongju, Korea
+date: 2022-10-26T05:40:09.276Z
+date_end: 2022-10-26T06:00:00.000Z
 all_day: false
-event: Wowchemy Conference
-event_url: https://example.org
+event: 2022 Fall International Conference of KSAE (60th Anniversary)
+event_url: https://www.entomology.or.kr/notice/view.php?idx=6988
 featured: false
 authors: []
 url_video: ""
@@ -28,13 +28,14 @@ links:
     icon_pack: fab
     name: Follow
     url: https://twitter.com/georgecushen
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2022-10-26T07:26:29.933Z
 tags: []
 projects:
   - example
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  caption: ""
   focal_point: Right
+  filename: featured.jpg
 url_code: ""
 ---
 
