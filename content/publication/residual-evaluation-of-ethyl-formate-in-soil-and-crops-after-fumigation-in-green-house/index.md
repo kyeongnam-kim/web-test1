@@ -11,9 +11,7 @@ authors:
   - Tae-Hyung Kwon
   - Byung-Ho Lee
   - Sung-Eun Lee
-author_notes:
-  - Equal contribution
-  - Equal contribution
+author_notes: []
 doi: https://doi.org/10.11626/KJEB.2022.40.3.316
 publication: "*Korean J Environ Biol, 40(3)*"
 publication_short: ""
@@ -54,16 +52,6 @@ url_source: ""
 url_video: ""
 featured: false
 projects: []
-date: 2022-09-15T06:43:05.598Z
+date: 2022-09-16T06:43:05.598Z
 publishDate: 2017-01-01T00:00:00.000Z
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
