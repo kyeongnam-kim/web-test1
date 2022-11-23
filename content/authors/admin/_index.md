@@ -16,8 +16,8 @@ social:
     link: https://www.researchgate.net/profile/Kyeongnam-Kim
     display:
       header: false
-  - icon: google-scholar
-    icon_pack: fas
+  - icon: googlescholar
+    icon_pack: fab
     link: https://scholar.google.com/citations?user=t1KDNnUAAAAJ&hl=ko&oi=ao
   - icon: twitter
     icon_pack: fab
