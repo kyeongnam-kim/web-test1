@@ -15,6 +15,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
+  - Equal contribution
 doi: https://doi.org/10.1016/j.ecoenv.2021.112689
 publication: "*Ecotoxicol Environ Saf, 224*"
 publication_short: ""
