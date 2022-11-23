@@ -21,7 +21,7 @@ content:
     postcode: '41566'
     country: Republic of Korea
     country_code: KR
-    contact_links:
+  contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
