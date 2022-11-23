@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-title: Phosphine resistance in stored grain insects
+title: Phosphine resistance
 summary: k﻿kkk222
 url_video: ""
 date: 2022-11-23T13:56:24.348Z
