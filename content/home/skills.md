@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Experimental Skills
 subtitle:
 
 # Showcase personal skills or business features.
@@ -17,17 +17,21 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
+    icon: hand-holding-seedling
+    icon_pack: fas
+    name: Handling of Eukaryotic Organisms 
   - description: 100%
-    icon: chart-line
+    icon: vials
     icon_pack: fas
     name: Statistics
   - description: 10%
     icon: camera-retro
     icon_pack: fas
     name: Photography
+  - description: 70%
+    icon: r-project
+    icon_pack: fab
+    name: R   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
