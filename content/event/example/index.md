@@ -18,7 +18,7 @@ slides: example
 url_pdf: ""
 summary: Phytotoxic mechanisms and reduction methods of major quarantine fumigants through transcriptome analysis
 title: Invited Talk - Recent Trends on Quarantine Fumigation Research
-location: LAHAN SELECT Hotel, Gyeongju, Korea
+location: LAHAN SELECT Hotel
 date: 2022-10-26T05:40:09.276Z
 date_end: 2022-10-26T06:00:00.000Z
 all_day: false
@@ -30,10 +30,10 @@ url_video: ""
 url_slides: ""
 address:
   street: 450 Serra Mall
-  city: Stanford
-  region: CA
+  city: Gyeongju
+  region: 
   postcode: "94305"
-  country: United States
+  country: Korea
 links:
   - icon: twitter
     icon_pack: fab
