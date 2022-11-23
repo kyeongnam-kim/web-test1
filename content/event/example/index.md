@@ -19,8 +19,8 @@ url_pdf: ""
 summary: Phytotoxic mechanisms and reduction methods of major quarantine fumigants through transcriptome analysis
 title: Invited Talk - Recent Trends on Quarantine Fumigation Research
 location: LAHAN SELECT Hotel
-date: 2022-10-26T05:40:09.276Z
-date_end: 2022-10-26T06:00:00.000Z
+date: 2022-10-26T14:40:09.276Z
+date_end: 2022-10-26T15:00:00.000Z
 all_day: false
 event: 2022 Fall International Conference of KSAE (60th Anniversary)
 event_url: https://www.entomology.or.kr/notice/view.php?idx=6988
