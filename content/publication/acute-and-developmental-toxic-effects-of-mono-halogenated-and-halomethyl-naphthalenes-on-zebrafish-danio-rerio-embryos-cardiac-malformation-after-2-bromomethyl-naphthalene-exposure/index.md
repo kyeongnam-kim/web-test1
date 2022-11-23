@@ -1,4 +1,24 @@
 ---
+title: "Acute and developmental toxic effects of mono-halogenated and halomethyl
+  naphthalenes on zebrafish (Danio rerio) embryos: Cardiac malformation after
+  2-bromomethyl naphthalene exposure"
+publication_types:
+  - "2"
+authors:
+  - Jungeun Park
+  - Yurim Kim
+  - Hwang-Ju Jeon
+  - admin
+  - Chaeeun Kim
+  - Seung ki Lee
+  - Jino Son
+  - Sung-Eun Lee
+author_notes:
+  - Equal contribution
+  - Equal contribution
+doi: https://doi.org/10.1016/j.envpol.2021.118786
+publication: "*Environ Pollut, 297*"
+publication_short: ""
 abstract: Polyhalogenated polycyclic aromatic hydrocarbons (HPAHs) represent a
   major environmental concern due to their persistency and toxicity. Among them,
   mono-halogenated (HNs) and halomethyl naphthalenes (HMNs) are not
@@ -17,21 +37,18 @@ abstract: Polyhalogenated polycyclic aromatic hydrocarbons (HPAHs) represent a
   2-naphthylmethyl radical, may be responsible for the toxic effect on zebrafish
   embryos. HPAHs must be monitored and managed due to their adverse effects on
   living organisms at low concentrations.
-publication_types:
-  - "2"
-authors:
-  - Jungeun Park
-  - Yurim Kim
-  - Hwang-Ju Jeon
-  - admin
-  - Chaeeun Kim
-  - Seung ki Lee
-  - Jino Son
-  - Sung-Eun Lee
-author_notes:
-  - Equal contribution
-  - Equal contribution
-publication: "*Environmental Pollution, 297*"
+tags:
+  - Zebrafish
+  - PAHs
+  - Pollutants
+  - Developmental toxicity
+categories:
+  - FISH
+image:
+  caption: ""
+  focal_point: smart
+  preview_only: false
+  filename: https://ars.els-cdn.com/content/image/1-s2.0-S026974912102368X-ga1.jpg
 summary: >-
   *Highlights*
 
@@ -44,37 +61,10 @@ summary: >-
   • An arrythmia-related nppa gene during development was upregulated by 2-BMN treatment.
 url_dataset: ""
 url_project: ""
-publication_short: ""
 url_source: ""
 url_video: ""
-title: "Acute and developmental toxic effects of mono-halogenated and halomethyl
-  naphthalenes on zebrafish (Danio rerio) embryos: Cardiac malformation after
-  2-bromomethyl naphthalene exposure"
-doi: https://doi.org/10.1016/j.envpol.2021.118786
 featured: false
-tags:
-  - Zebrafish
-  - PAHs
-  - Pollutants
-  - Developmental toxicity
-categories:
-  - FISH
 projects: []
-image:
-  caption: ""
-  focal_point: smart
-  preview_only: false
-  filename: https://ars.els-cdn.com/content/image/1-s2.0-S026974912102368X-ga1.jpg
 date: 2022-03-14T16:40:17.597Z
 publishDate: 2017-01-01T00:00:00.000Z
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
