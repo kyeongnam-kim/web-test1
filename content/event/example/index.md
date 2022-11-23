@@ -31,9 +31,9 @@ url_slides: "static/uploads/2022KSAE.pdf"
 address:
   street: 
   city: Gyeongju
-  region: 
+  region: Korea
   postcode: ""
-  country: Korea
+  country: 
 links:
   - icon: twitter
     icon_pack: fab
