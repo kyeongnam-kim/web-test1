@@ -18,17 +18,13 @@ subtitle:
 feature:
   - description: 90%
     icon: hand-holding-seedling
-    icon_pack: fas
+    icon_pack: fab
     name: Handling of Eukaryotic Organisms 
   - description: 100%
-    icon: vials
+    icon: microscope
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
-  - description: 70%
+    name: Molecular Biology
+  - description: 60%
     icon: r-project
     icon_pack: fab
     name: R   
