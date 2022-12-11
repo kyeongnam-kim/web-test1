@@ -45,6 +45,6 @@ highlight_name: true
 first_name: Kyeongnam
 email: kn1188@knu.ac.kr
 ---
-Kyeongnam Kim is a postdoctoral researcher of Institute of Quality and Safety Assessment of Agricultural Products at the Sung-Eun Lee’s Lab. Her research interests include agricultural and environmental toxicology. She leads the projects related to insect & plant, which develops methods related to molecular mechanism.
+Kyeongnam Kim is a postdoctoral researcher of Institute of Quality and Safety Evaluation of Agricultural Products at the Sung-Eun Lee’s Lab. Her research interests include agricultural and environmental toxicology. She leads the projects related to insect & plant, which develops methods related to molecular mechanism.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
