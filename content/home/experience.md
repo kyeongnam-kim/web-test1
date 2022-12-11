@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Postdoctoral researcher / Instructor
-    company: Institute for Quality and Safety Assessment of Agricultural Products, KNU
+    company: Institute of Quality and Safety Evaluation of Agricultural Products, KNU
     company_url: ''
     company_logo: KNU
     location: Daegu
