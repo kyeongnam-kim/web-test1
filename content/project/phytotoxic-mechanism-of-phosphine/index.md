@@ -15,7 +15,7 @@ links:
   - icon: ""
     icon_pack: null
     name: Related paper
-    url: https://www.nature.com/articles/s41598-019-50972-w
+    url: https://www.sciencedirect.com/science/article/pii/S0304389422019355
 image:
   caption: ""
   focal_point: Smart
