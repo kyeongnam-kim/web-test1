@@ -19,7 +19,7 @@ links:
 image:
   caption: ""
   focal_point: Smart
-  filename: a.jpg
+  filename: 그림5.jpg
 url_code: ""
 ---
 k﻿kkkkk
