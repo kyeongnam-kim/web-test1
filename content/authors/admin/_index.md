@@ -7,6 +7,7 @@ interests:
   - Molecular mechanism
   - Environmental toxicology
   - Multi-Omics
+  - Chemical Biology
 social:
   - icon: envelope
     icon_pack: fas
