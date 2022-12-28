@@ -19,7 +19,7 @@ links:
 image:
   caption: ""
   focal_point: Smart
-  filename: featured.jpg
+  filename: a.jpg
 url_code: ""
 ---
 k﻿kkkkk
