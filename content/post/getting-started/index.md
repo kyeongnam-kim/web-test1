@@ -1,5 +1,5 @@
 ---
-title: "BRIC 'People who Shine Korea (Hanbitsa)' "
+title: December 2022, BRIC Hanbitsa paper selection
 subtitle: " 👋 Two papers related to quarantine fumigation in 2021 and 2022
   published in J. Hazard. Mat. were listed in the 'People who Shine Korea
   (Hanbitsa)' of the Biological Research Information Center (BRIC) in December."
