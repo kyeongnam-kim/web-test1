@@ -37,7 +37,6 @@ abstract: Pyrethroid and organochlorine insecticides are enormously used to
   to prevent humans and environmental organisms from their unexpected attacks.
 tags:
   - Zebrafish
-  - PAHs
   - Pollutants
   - Developmental toxicity
 categories:
