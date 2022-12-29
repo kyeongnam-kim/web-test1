@@ -1,27 +1,14 @@
 ---
-abstract: >-
-  As global commerce expands, quarantine is becoming increasingly important to
-  limit the entry of pests
-
-  from other countries. Methyl bromide (MB) is the most global fumigant in the plant quarantine field, despite
-
-  being selected as an ozone-depleting substance through the Montreal protocol. The use of MB is essential
-
-  until alternatives to MB are established. The time and concentration standards of fumigants are set based on
-
-  the concentration-time (Ct) values from the bioassay using insect pests, but plants are also affected by fumigant in closed environment. However, the mechanism of phytotoxicity to fumigants was not yet well understood. In this study, Arabidopsis thaliana, model plant, was used to evaluate the phytotoxic effect under the quarantine standards, and the unknown toxic mechanism was investigated through transcriptomic analysis.
-
-  In addition, methods for reducing phytotoxicity were proposed in the study of transcriptome-based
-
-  mechanisms.
+abstract: Top prize in field of BioSciences and Engineering in Brain Korea 21
+  (BK21) Performance Forum
 slides: example
 url_pdf: ""
 summary: Phytotoxic mechanisms and reduction methods of major quarantine
   fumigants through transcriptome analysis
 title: Brain Korea 21 (BK21) Performance Forum held  - Top prize in field of
   BioSciences and Engineering
-location: LAHAN SELECT Hotel
-date: 2022-12-29T06:23:09.524Z
+location: Hotel-Interburgo, Daegu
+date: 2022-02-01T06:23:09.524Z
 date_end: 2022-10-26T15:00:00.000Z
 all_day: false
 event: "2022 Brain Korea 21 (BK21) Performance Forum "
