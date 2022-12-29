@@ -7,7 +7,7 @@ summary: Phytotoxic mechanisms and reduction methods of major quarantine
   fumigants through transcriptome analysis
 title: Brain Korea 21 (BK21) Performance Forum held  - Top prize in field of
   BioSciences and Engineering
-location: Hotel-Interburgo, Daegu
+location: Hotel-Interburgo
 date: 2022-02-01T06:23:09.524Z
 date_end: 2022-10-26T15:00:00.000Z
 all_day: false
@@ -19,7 +19,7 @@ url_video: ""
 url_slides: staticref "uploads/2022KSAE.pdf"
 address:
   street: null
-  city: Gyeongju
+  city: Daegu
   region: Korea
   postcode: ""
   country: null
