@@ -5,12 +5,12 @@ title: Reduction effects of N-acetyl-L -cysteine, L -glutathione, and
 publication_types:
   - "2"
 authors:
-  - Hwang-Ju Jeon
   - admin
   - Chaeeun Kim
-  - Yerin Cho
-  - Tae-Hyung Kwon
-  - Byung-Ho Lee
+  - Jeongeun Park
+  - Woosung Kim
+  - Hwang-Ju Jeon
+  - Jun-Ran Kim
   - Sung-Eun Lee
 author_notes: []
 doi: https://doi.org/10.11626/KJEB.2021.39.3.354
