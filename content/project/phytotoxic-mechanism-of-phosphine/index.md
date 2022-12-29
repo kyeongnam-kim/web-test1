@@ -2,7 +2,7 @@
 slides: example
 url_pdf: ""
 title: Phytotoxic mechanism of Phosphine
-summary: k﻿kkk222
+summary: ""
 url_video: ""
 date: 2022-12-28T10:23:31.288Z
 external_link: ""
@@ -22,4 +22,3 @@ image:
   filename: 그림5.jpg
 url_code: ""
 ---
-k﻿kkkkk
