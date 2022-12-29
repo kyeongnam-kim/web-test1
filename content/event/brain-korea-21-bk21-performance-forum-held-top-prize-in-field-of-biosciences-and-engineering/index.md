@@ -24,10 +24,10 @@ address:
   postcode: ""
   country: null
 links:
-  - icon: twitter
+  - icon: youtube
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+    name: YOUTUBE
+    url: https://youtu.be/k6_f4vqUPes
 publishDate: 2022-02-01T06:23:09.538Z
 tags:
   - Phytotoxicity
