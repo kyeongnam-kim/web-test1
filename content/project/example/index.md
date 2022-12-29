@@ -2,7 +2,7 @@
 slides: example
 url_pdf: ""
 title: Phosphine resistance
-summary: k﻿kkk222
+summary: ""
 url_video: ""
 date: 2022-11-23T13:56:24.348Z
 external_link: ""
@@ -22,4 +22,3 @@ image:
   filename: featured.jpg
 url_code: ""
 ---
-k﻿kkkkk
