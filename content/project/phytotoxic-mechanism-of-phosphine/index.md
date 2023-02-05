@@ -1,7 +1,8 @@
 ---
 slides: example
 url_pdf: ""
-title: Phytotoxic mechanism of Phosphine
+title: Phytotoxic mechanism of Phosphine for developing sustainable pest
+  management strategies
 summary: ""
 url_video: ""
 date: 2022-12-28T10:23:31.288Z
