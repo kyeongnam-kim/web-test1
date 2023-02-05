@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-title: Phosphine resistance
+title: Phosphine resistant mechanism based on OMICs and CRIPR-Cas9 approaches
 summary: ""
 url_video: ""
 date: 2022-11-23T13:56:24.348Z
