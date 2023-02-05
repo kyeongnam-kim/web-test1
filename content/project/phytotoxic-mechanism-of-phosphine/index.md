@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-title: Phytotoxic mechanism of Phosphine for developing sustainable pest
+title: Phytotoxic mechanism of fumigants for developing sustainable pest
   management strategies
 summary: ""
 url_video: ""
