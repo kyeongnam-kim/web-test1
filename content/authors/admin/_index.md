@@ -46,9 +46,9 @@ highlight_name: true
 first_name: Kyeongnam
 email: kn1188@knu.ac.kr
 ---
-My name is Kyeongnam Kim and I am a postdoctoral researcher of Institute of Quality and Safety Evaluation of Agricultural Products at the Sung-Eun Lee’s Lab in the field of Environmental Toxicology and Ecotoxicology.
+My name is Kyeongnam Kim and I am a postdoctoral researcher of Institute of Quality and Safety Evaluation of Agricultural Products (at the Sung-Eun Lee’s Lab) in the field of Environmental Toxicology and Ecotoxicology. 
 
-My passion lies in understanding the mechanisms of action of chemicals on plants and insects using Multi-omics and evaluating the environmental impact of agrochemicals. I am also committed to developing sustainable pest management strategies.
+My passion lies in understanding the mechanisms of action of chemicals on plants and insects using Multi-omics and evaluating the environmental impact of agrochemicals. I am also committed to developing sustainable pest management strategies. 
 
 With 7 years of experience in the field, I have acquired a deep understanding of the complex interplay between the environment, chemicals, and biological systems. My goal is to apply this knowledge to create practical and effective solutions that balance the needs of agriculture, the environment, and human health. I am excited to continue exploring these topics and making a positive impact in the field through my research.
 
