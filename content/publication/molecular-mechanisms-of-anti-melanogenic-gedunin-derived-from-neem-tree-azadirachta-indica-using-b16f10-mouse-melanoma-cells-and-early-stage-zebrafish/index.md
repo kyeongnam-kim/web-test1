@@ -43,7 +43,7 @@ image:
   caption: ""
   focal_point: smart
   preview_only: false
-  filename: foods-12-00926-g005.png
+  filename: plants-10-00330-g004-550.jpg
 summary: ""
 url_dataset: ""
 url_project: ""
