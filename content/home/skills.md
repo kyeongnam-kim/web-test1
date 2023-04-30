@@ -31,7 +31,7 @@ feature:
   - description: 85%
     icon: flask-vial
     icon_pack: fas
-    name: Analytical instrument
+    name: Analytical Instrument
   - description: 100%
     icon: paintbrush
     icon_pack: fas
