@@ -35,11 +35,7 @@ address:
   region: Korea
   postcode: ""
   country: null
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+links: []
 publishDate: 2023-04-30T08:27:43.667Z
 tags:
   - Ethyl formate
