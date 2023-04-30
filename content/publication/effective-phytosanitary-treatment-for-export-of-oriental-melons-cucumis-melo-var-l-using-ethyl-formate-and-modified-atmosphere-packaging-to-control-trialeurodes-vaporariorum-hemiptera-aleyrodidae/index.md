@@ -10,7 +10,8 @@ authors:
   - Tae Hyung Kwon
   - Byung-Ho Lee
   - Sung-Eun Lee
-author_notes: []
+author_notes:
+  - Equal contribution
 doi: ""
 publication: "*Insects (under-review)*"
 publication_short: ""
@@ -48,6 +49,6 @@ url_video: ""
 featured: false
 projects:
   - Ethyl formate
-date: 2023-04-30T09:52:09.965Z
+date: 2023-05-05T09:52:09.965Z
 publishDate: 2017-01-01T00:00:00.000Z
 ---
