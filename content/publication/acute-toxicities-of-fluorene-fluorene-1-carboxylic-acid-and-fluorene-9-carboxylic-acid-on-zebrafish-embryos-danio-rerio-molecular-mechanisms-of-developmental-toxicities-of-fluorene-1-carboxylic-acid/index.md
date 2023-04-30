@@ -5,45 +5,41 @@ title: "Acute toxicities of fluorene, fluorene-1-carboxylic acid, and
 publication_types:
   - "2"
 authors:
-  - Chaeeun Kim
-  - Hyeseung Choe
-  - Jungeun Park
-  - Gayoung Kim
-  - admin
+  - Yong-Chan Kim
+  - Sang-Ryong Lee
   - Hwang-Ju Jeon
-  - Joon-Kwan Moon
+  - admin
   - Myoung-Jin Kim
+  - Sung-Deuk Choi
   - Sung-Eun Lee
 author_notes:
   - Equal contribution
   - Equal contribution
-  - Equal contribution
-doi: https://doi.org/10.1016/j.envpol.2020.116087
-publication: "*Eviron Pollu, 270, 116087*"
+doi: https://doi.org/10.1016/j.chemosphere.2020.127622
+publication: "*Chemosphere, 260, 127622*"
 publication_short: ""
-abstract: Azoxystrobin (AZ) and pyraclostrobin (PY) are strobilurin fungicides
-  that inhibit fungal mitochondrial respiration. In this study, a representative
-  model, zebrafish (Danio rerio), was used as a test species for acute and
-  developmental toxicity. Survival and malformation rates were observed only
-  PY-treated embryos, with an LC50 value of 77.75 ppb accompanied by a dramatic
-  decrease in hatching rate, while AZ did not show great mortality.
-  Morphological changes were observed in PY-treated embryos with the occurrence
-  of pericadial edema at 25 ppb. A delay in growth was observed after treatment
-  with pyraclostrobin at 50 ppb. Use of genetically engineered Tg(cmlc:EGFP)
-  allowed fluorescence observation during heart development. PY interfered with
-  normal heart development via upregulation of the nppa gene responsible for the
-  expression of natriuretic peptides. Heart function was dramatically reduced as
-  indicated by reduced heart rates. Increased expression of the nppa gene was
-  also seen in AZ-treated embryos. The expression level of cyp24a1 was also
-  up-regulated, while ugt1a1 and sult1st6 were down-regulated after treatment of
-  zebrafish embryos with AZ or PY. Overall, strobilurin fungicides might inhibit
-  normal heart formation and function within the range of concentrations tested.
+abstract: In this study, fluorene (FL), FL-1-carboxylic acid (FC-1), and
+  FL-9-carboxylic acid (FC-9) were investigated to understand their acute
+  toxicity by measuring inhibitory effects on hatching rates and developmental
+  processes of zebrafish embryos (Danio rerio). For exposure concentrations up
+  to 3000 μg/L, FC-1 alone showed acute toxicity at 1458 μg/L for LC50 value.
+  FC-1 caused yolk sac and spinal deformities, and pericardial edema. Molecular
+  studies were undertaken to understand FC-1 toxicity examining 61 genes after
+  exposure to 5 μM (equivalent to LC20 value of FC-1) in embryos. In the
+  FC-1-treated embryos, the expression of the cyp7a1 gene, involved in bile acid
+  biosynthesis, was dramatically decreased, while the expression of the Il-1β
+  gene involved in inflammation was remarkably increased. In addition to these
+  findings, in FC-1-treated embryos, the expression of nppa gene related to the
+  differentiation of the myocardium was 3-fold increased. On the other hand,
+  cyp1a, cyp3a, ugt1a1, abcc4, mdr1, and sult1st1 responsible for detoxification
+  of xenobiotics were upregulated in FC-9-treated embryos. Taken together,
+  carboxylation on carbon 1 of FL increased acute toxicity in zebrafish embryos,
+  and its toxicity might be related to morphological changes with modification
+  of normal biological functions and lowered defense ability.
 tags:
   - Zebrafish
-  - Pesticides
-  - Azoxystrobin
-  - Pyraclostrobin
-  - Developmental toxicity
+  - PAHs
+  - Fluorene
 categories:
   - FISH
 image:
@@ -51,28 +47,33 @@ image:
   focal_point: smart
   preview_only: false
   filename: 1-s2.0-s0269749120367762-fx1_lrg.jpg
-summary: |-
+summary: >-
   Highlights
-  •
-  Pyraclostrobin (PY) exhibited strong acute toxicity to zebrafish embryos.
 
   •
-  PY generated pericardial and yolk sac edemas in zebrafish embryos.
+
+  Fluorene-1-carboxylic acid exhibited potent acute toxicities on zebrafish embryos, including high mortality rate.
+
 
   •
-  PY inhibited body growth in a transgenic zebrafish Tg(fli1a:EGFP).
+
+  Fluorene-1-carboxylic acid induced abnormal developments such as yolk sac, spinal deformities, and pericardial edema.
+
 
   •
-  PY interfered heart formation in a transgenic zebrafish Tg(cmlc:EGFP).
+
+  Fluorene-1-carboxylic acid down-regulated cyp7a1 gene expression involved in bile acid biosynthesis.
+
 
   •
-  Heart malformation by PY is strongly related to up-regulation of nppa gene.
+
+  Carboxylation on 1-carbon in fluorine ring core might mediate metabolic modifications when compared to fluorine.
 url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
 featured: false
 projects: []
-date: 2023-04-30T10:16:38.670Z
+date: 2020-12-01T10:16:38.670Z
 publishDate: 2017-01-01T00:00:00.000Z
 ---
