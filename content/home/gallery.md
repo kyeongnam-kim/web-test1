@@ -7,7 +7,7 @@ widget: markdown
 headless: true
 
 # Order that this section appears on the page.
-weight: 100
+weight: 150
 
 title: Photos
 subtitle:
