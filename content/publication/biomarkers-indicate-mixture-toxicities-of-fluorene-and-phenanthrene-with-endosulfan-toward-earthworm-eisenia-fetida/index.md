@@ -4,41 +4,45 @@ title: Biomarkers indicate mixture toxicities of fluorene and phenanthrene with
 publication_types:
   - "2"
 authors:
+  - Tae-Hoon Nam
+  - Leesun Kim
+  - Hwang-Ju Jeon
   - admin
-  - Jeong Sun Park
-  - Jeong Oh Yang
+  - Yong-Sik Ok
+  - Sung-Deuk Choi
   - Sung-Eun Lee
 author_notes: []
-doi: https://doi.org/10.3390/app8101764
-publication: "*Appl Sci_Basel, 8(10), 1764*"
+doi: https://doi.org/10.1007/s10653-016-9876-3
+publication: "*Environ Geochem Health, 39(3):307-317*"
 publication_short: ""
-abstract: Phosphine (PH3) fumigation is one of the best alternatives to methyl
-  bromide for regulating insect pests during storage and shipping. Recently,
-  this treatment has been applied to other agricultural insect pests, including
-  Myzus persicae. To understand the mode of PH3 toxicity in M. persicae,
-  proteomic analyses using liquid-chromatography tandem mass spectrometry were
-  conducted to measure comparative protein expression levels between PH3-treated
-  samples and controls. PH3 treatment increased NADH dehydrogenase (ubiquinone)
-  flavoprotein 1, mitochondrial-like (complex I) expression, but decreased
-  complex II and ATPases in the mitochondrial electron transport chain (ETC) of
-  M. persicae. Glucosidase and antimicrobial proteins such as lysozymes showed
-  enhanced expression in PH3-treated M. persicae. Some regulatory proteins
-  related to apoptosis were more abundant in PH3-treated M. persicae.
-  Biochemical activities of acetylcholinesterase (AChE) and cytochrome c oxidase
-  (COX) were also measured because these enzymes are known to be targeted by
-  PH3. Only COX activity decreased in relation to increasing PH3 concentrations
-  in adult M. persicae. The expression of six selected genes were determined in
-  relation to PH3 treatments. No two-fold changes in the expression of the six
-  genes was observed. Thus, PH3 toxicity caused disruption in the ETC and
-  glucose supply, as well as dis-regulation of apoptosis in M. persicae.
+abstract: α-Endosulfan and some polycyclic aromatic compounds (PAHs) are
+  persistent in the environment and can reach crop products via contaminated
+  agricultural soils. They may even be present as mixtures in the soil and
+  induce mixture toxicity in soil organisms such as earthworms. In this study,
+  the combined toxicities of PAHs with α-endosulfan were determined in Eisenia
+  fetida adults using an artificial soil system. α-Endosulfan and five PAHs were
+  tested for their acute toxicity toward E. fetida in artificial soils. Only
+  α-endosulfan, fluorene, and phenanthrene showed acute toxicities, with LC50
+  values of 9.7, 133.2, and 86.2 mg kg−1, respectively. A mixture toxicity assay
+  was conducted using α-endosulfan at LC10 and fluorene or phenanthrene at LC50
+  in the artificial soils. Upon exposure to the mixture of fluorene and
+  α-endosulfan, earthworms were killed in increasing numbers owing to their
+  synergistic effects, while no other mixture showed any additional toxicity
+  toward the earthworms. Along with the acute toxicity results, the biochemical
+  and molecular changes in the fluorene- and phenanthrene-treated earthworms
+  with or without α-endosulfan treatment demonstrated that enhancement of
+  glutathione S-transferase activity was dependent on the addition of PAH
+  chemicals, and the HSP70 gene expression increased with the addition of
+  α-endosulfan. Taken together, these findings contribute toward understanding
+  the adverse effects of pollutants when present separately or in combination
+  with other types of chemicals.
 tags:
-  - Phosphine
-  - M.persicae
-  - Aphids
-  - Proteomics
-  - ETC
+  - Endosulfan
+  - PAHs
+  - Combined toxicity
+  - Earthworm
 categories:
-  - Insect
+  - Earthwom
 image:
   caption: ""
   focal_point: smart
@@ -51,6 +55,6 @@ url_source: ""
 url_video: ""
 featured: false
 projects: []
-date: 2023-04-30T11:07:47.265Z
+date: 2016-10-01T11:07:47.265Z
 publishDate: 2017-01-01T00:00:00.000Z
 ---
