@@ -3,41 +3,43 @@ title: Concentration and distribution of polychlorinated biphenyls in rice paddy
 publication_types:
   - "2"
 authors:
+  - Leesun Kim
+  - Jin-Woo Jeon
+  - Ji-Young Son
+  - Min-Kyu Park
+  - Chul-Su Kim
+  - Hwang-Ju Jeon
+  - Tae-Hoon Nam
   - admin
-  - Jeong Sun Park
-  - Jeong Oh Yang
+  - Byung-Jun Park
+  - Sung-Deuk Choi
   - Sung-Eun Lee
 author_notes: []
 doi: https://doi.org/10.3390/app8101764
-publication: "*Appl Sci_Basel, 8(10), 1764*"
+publication: "*Appl Biol Chem 60:191-196*"
 publication_short: ""
-abstract: Phosphine (PH3) fumigation is one of the best alternatives to methyl
-  bromide for regulating insect pests during storage and shipping. Recently,
-  this treatment has been applied to other agricultural insect pests, including
-  Myzus persicae. To understand the mode of PH3 toxicity in M. persicae,
-  proteomic analyses using liquid-chromatography tandem mass spectrometry were
-  conducted to measure comparative protein expression levels between PH3-treated
-  samples and controls. PH3 treatment increased NADH dehydrogenase (ubiquinone)
-  flavoprotein 1, mitochondrial-like (complex I) expression, but decreased
-  complex II and ATPases in the mitochondrial electron transport chain (ETC) of
-  M. persicae. Glucosidase and antimicrobial proteins such as lysozymes showed
-  enhanced expression in PH3-treated M. persicae. Some regulatory proteins
-  related to apoptosis were more abundant in PH3-treated M. persicae.
-  Biochemical activities of acetylcholinesterase (AChE) and cytochrome c oxidase
-  (COX) were also measured because these enzymes are known to be targeted by
-  PH3. Only COX activity decreased in relation to increasing PH3 concentrations
-  in adult M. persicae. The expression of six selected genes were determined in
-  relation to PH3 treatments. No two-fold changes in the expression of the six
-  genes was observed. Thus, PH3 toxicity caused disruption in the ETC and
-  glucose supply, as well as dis-regulation of apoptosis in M. persicae.
+abstract: To monitor and evaluate the risk of polychlorinated biphenyls (PCBs)
+  contamination in Pohang, Korea, the concentration and distribution of 29 PCBs
+  in paddy soils were determined using high-resolution gas
+  chromatography/high-resolution mass spectrometry. The overall concentrations
+  of Σ29 PCBs in the paddy soils of the areas close to the heavily industrial
+  city of Pohang (268–1833 pg g−1 dw) were higher than those in the paddies from
+  Anseong (106.6–222.6 pg g−1 dw) in Korea. In Pohang, the major contributors to
+  the Σ29 PCBs were the non-dioxin-like PCBs, including the PCBs 28, 52, 70,
+  101, 118, 138, 153, and 180, which correspond to 48–62% of the total PCBs. The
+  toxic equivalency (TEQ) values obtained from the 12 dioxin-like PCBs from
+  Pohang (0.03–1.03 pg TEQ g−1 dw) showed that PCB 126 contributed the highest
+  toxicity, possibly posing a risk to the living organisms. The results of both
+  principal component and cluster analysis based on the PCB homologue patterns
+  demonstrated that each sampling site showed a similar PCBs contamination
+  pattern, and Aroclor 1254, which is likely used by small and big steel
+  factories, was identified as a major source of PCB contamination in Pohang.
 tags:
-  - Phosphine
-  - M.persicae
-  - Aphids
-  - Proteomics
-  - ETC
+  - PCBs
+  - Monitoring
+  - TEQ
 categories:
-  - Insect
+  - Analytical
 image:
   caption: ""
   focal_point: smart
@@ -50,6 +52,6 @@ url_source: ""
 url_video: ""
 featured: false
 projects: []
-date: 2023-04-30T11:11:28.665Z
+date: 2017-03-14T11:11:28.665Z
 publishDate: 2017-01-01T00:00:00.000Z
 ---
