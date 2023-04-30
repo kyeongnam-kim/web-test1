@@ -2,7 +2,7 @@
 title: "Combined toxicity of 3,5,6-trichloro-2-pyridinol and 2-(bromomethyl)
   naphthalene in the early stages of zebrafish (Danio rerio) embryos: Abnormal
   heart development at lower concentrations via differential expression of heart
-  forming-related genes. "
+  forming-related genes "
 publication_types:
   - "2"
 authors:
