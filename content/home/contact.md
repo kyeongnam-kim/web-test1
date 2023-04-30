@@ -22,11 +22,11 @@ content:
     country: Republic of Korea
     country_code: KR
   
-  #contact_links:
-    #- icon: twitter
-      #icon_pack: fab
-      #name: DM Me
-      #link: 'https://twitter.com/Kyeongnam_Kim'
+  contact_links:
+    - icon: twitter
+      icon_pack: fab
+      name: DM Me
+      link: ''
 
 design:
   columns: '2'
