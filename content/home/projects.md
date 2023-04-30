@@ -31,12 +31,12 @@ content:
       tag: Resistance mechanism
     - name: Phytotoxicity
       tag: Phytotoxicity
-    - name: Ethyl formate fumigation for Greenhouse pest control
+    - name: Ethyl formate for Greenhouse
       tag: Phytotoxicity, Ethyl formate
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
