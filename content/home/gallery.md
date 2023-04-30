@@ -7,13 +7,13 @@ widget: markdown
 headless: true
 
 # Order that this section appears on the page.
-weight: 150
+weight: 130
 
 title: Photos
 subtitle:
 
 design:
-  columns: '2'
+  columns: '1'
 ---
 
 {{< gallery album="demo" >}}
