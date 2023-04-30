@@ -23,10 +23,10 @@ content:
     country_code: KR
   
   #contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Kyeongnam_Kim'
+    #- icon: twitter
+      #icon_pack: fab
+      #name: DM Me
+      #link: 'https://twitter.com/Kyeongnam_Kim'
 
 design:
   columns: '2'
