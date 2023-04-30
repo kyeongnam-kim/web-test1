@@ -16,18 +16,23 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+  - description: 100%
+    icon: microscope
+    icon_pack: fas
+    name: Molecular Biology
   - description: 90%
     icon: seedling
     icon_pack: fas
     name: Handling of Eukaryotic Organisms 
   - description: 100%
-    icon: microscope
+    icon: mask-ventilator
     icon_pack: fas
-    name: Molecular Biology
-  - description: 60%
+    name: Fumigation
+  - description: 70%
     icon: r-project
     icon_pack: fab
-    name: R   
+    name: Bioinformatics  
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
