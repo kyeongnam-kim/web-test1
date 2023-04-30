@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 60
 
 title: Projects
 subtitle: ''
@@ -31,10 +31,12 @@ content:
       tag: Resistance mechanism
     - name: Phytotoxicity
       tag: Phytotoxicity
+    - name: Ethyl formate fumigation for Greenhouse pest control
+      tag: Phytotoxicity, Ethyl formate
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: '2'
 
   # Toggle between the various page layout types.
   #   1 = List
