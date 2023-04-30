@@ -42,7 +42,7 @@ image:
   caption: ""
   focal_point: smart
   preview_only: false
-  filename: 1-s2.0-s0269749123005390-ga1_lrg.jpg
+  filename: foods-12-00926-g005.png
 summary: ""
 url_dataset: ""
 url_project: ""
