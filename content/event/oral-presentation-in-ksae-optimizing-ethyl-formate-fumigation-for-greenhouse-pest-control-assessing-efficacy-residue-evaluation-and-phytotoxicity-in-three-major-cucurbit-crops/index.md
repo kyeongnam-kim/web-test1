@@ -16,9 +16,8 @@ slides: example
 url_pdf: ""
 summary: Phytotoxic mechanisms and reduction methods of major quarantine
   fumigants through transcriptome analysis
-title: "Oral presentation in KSAE - Optimizing Ethyl Formate Fumigation for
-  Greenhouse Pest Control: Assessing Efficacy, Residue Evaluation, and
-  Phytotoxicity in Three Major Cucurbit Crops"
+title: Oral presentation in KSAE - Optimizing Ethyl Formate Fumigation for
+  Greenhouse Pest Control
 location: Grand Plaza Cheongju Hotel
 date: 2023-04-27T04:20:43.649Z
 date_end: 2022-10-27T15:00:00.000Z
