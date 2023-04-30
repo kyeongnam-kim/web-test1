@@ -50,7 +50,7 @@ image:
   caption: ""
   focal_point: smart
   preview_only: false
-  filename: dddd.jpg
+  filename: 1-s2.0-s0269749120367762-fx1_lrg.jpg
 summary: |-
   Highlights
   •
