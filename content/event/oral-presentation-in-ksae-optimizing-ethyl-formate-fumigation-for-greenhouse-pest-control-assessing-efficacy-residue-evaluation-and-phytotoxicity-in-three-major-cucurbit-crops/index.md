@@ -53,6 +53,6 @@ projects:
 image:
   caption: ""
   focal_point: Right
-  filename: featured.jpg
+  filename: kakaotalk_20230430_173825613_01.jpg
 url_code: ""
 ---
