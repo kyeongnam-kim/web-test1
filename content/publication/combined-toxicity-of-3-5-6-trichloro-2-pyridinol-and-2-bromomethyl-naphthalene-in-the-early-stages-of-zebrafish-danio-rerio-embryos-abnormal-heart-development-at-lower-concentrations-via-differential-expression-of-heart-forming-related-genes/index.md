@@ -47,7 +47,7 @@ image:
   caption: ""
   focal_point: smart
   preview_only: false
-  filename: 1-s2.0-s0269749123005390-ga1_lrg.jpg
+  filename: 1-s2.0-s0269749123004529-ga1_lrg.jpg
 summary: >-
   *Highlights*
 
