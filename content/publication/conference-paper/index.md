@@ -38,9 +38,8 @@ url_project: ""
 publication_short: ""
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
-title: "Phosphine gas in the dark induces severe phytotoxicity in Arabidopsis
-  thaliana by increasing a hypoxia stress response and disrupting the energy
-  metabolism: Transcriptomic approaches"
+title: Targeted toxico-metabolomics of endosulfan sulfate in adult zebrafish
+  (Danio rerio) using GC-MS/MS in multiple reaction monitoring mode
 subtitle: ""
 doi: https://doi.org/10.1016/j.jhazmat.2022.130141
 featured: true
