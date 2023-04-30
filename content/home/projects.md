@@ -32,8 +32,9 @@ content:
     - name: Phytotoxicity
       tag: Phytotoxicity
     - name: Ethyl formate for Greenhouse
-      tag: Phytotoxicity, Ethyl formate
-
+      tag: Ethyl formate
+    - name: Environmental toxicology
+      tag: zebrafish
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
