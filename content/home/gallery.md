@@ -13,7 +13,7 @@ title: Photos
 subtitle:
 
 design:
-  columns: '1'
+  columns: '2'
 ---
 
 {{< gallery album="demo" >}}
