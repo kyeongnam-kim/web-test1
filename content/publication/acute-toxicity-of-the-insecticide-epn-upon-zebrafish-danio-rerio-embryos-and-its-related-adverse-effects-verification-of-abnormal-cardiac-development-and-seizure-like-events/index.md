@@ -1,7 +1,7 @@
 ---
 title: "Acute toxicity of the insecticide EPN upon zebrafish (Danio rerio)
   embryos and its related adverse effects: Verification of abnormal cardiac
-  development and seizure-like events."
+  development and seizure-like events"
 publication_types:
   - "2"
 authors:
