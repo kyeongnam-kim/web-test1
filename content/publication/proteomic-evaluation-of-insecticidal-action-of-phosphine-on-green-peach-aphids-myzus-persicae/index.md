@@ -5,50 +5,45 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Min-Goo Park
-  - Yong Ho Lee
-  - Hwang-Ju Jeon
-  - Tae Hyung Kwon
-  - Chaeeun Kim
-  - Jungeun Park
-  - Byung-Ho Lee
+  - Jeong Sun Park
   - Jeong Oh Yang
   - Sung-Eun Lee
 author_notes: []
-doi: https://doi.org/10.3390/app11219877
-publication: "*Appl Sci_Basel, 11(21)*"
+doi: https://doi.org/10.3390/app8101764
+publication: "*Appl Sci_Basel, 8(10), 1764*"
 publication_short: ""
-abstract: Methyl bromide (MB) has been used in a wide range of applications, but
-  since it was determined to be an ozone-depleting compound, it has only been
-  used for pre-shipment and quarantine purposes in trade. Phosphine (PH3) is
-  currently the ideal fumigant as an MB alternative worldwide. However, the
-  development of PH3 resistance in the target insect pest and longer PH3
-  fumigation treatment times raise questions about the continued use of PH3.
-  This study attempted to shorten treatment time via combination treatment with
-  ethyl formate (EF). Planococcus citri was used as the main quarantine pest in
-  Korea, and the acute toxicity of EF, PH3, and EF + PH3 was determined at every
-  developmental stage. EF treatment at 4 h showed LCT99 values of 45.85~65.43
-  mg∙h/L, and PH3 treatment at 20 h showed that of 0.13~0.83 mg∙h/L depending on
-  the developmental stage. The efficacy of PH3 decreased after reducing the
-  treatment time, but synergistic effects were observed at all stages of
-  development of P. citri when both fumigants were used simultaneously for 4 h.
-  After combined treatment, dihydrolipoyl dehydrogenase expression and the
-  production of two phospholipids, PI(O-16:0) and PC(18:2), were significantly
-  reduced in treated P. citri adults compared with the control. Therefore,
-  combined treatments might be key to reducing the treatment time and resistance
-  of PH3 in the field.
+abstract: Phosphine (PH3) fumigation is one of the best alternatives to methyl
+  bromide for regulating insect pests during storage and shipping. Recently,
+  this treatment has been applied to other agricultural insect pests, including
+  Myzus persicae. To understand the mode of PH3 toxicity in M. persicae,
+  proteomic analyses using liquid-chromatography tandem mass spectrometry were
+  conducted to measure comparative protein expression levels between PH3-treated
+  samples and controls. PH3 treatment increased NADH dehydrogenase (ubiquinone)
+  flavoprotein 1, mitochondrial-like (complex I) expression, but decreased
+  complex II and ATPases in the mitochondrial electron transport chain (ETC) of
+  M. persicae. Glucosidase and antimicrobial proteins such as lysozymes showed
+  enhanced expression in PH3-treated M. persicae. Some regulatory proteins
+  related to apoptosis were more abundant in PH3-treated M. persicae.
+  Biochemical activities of acetylcholinesterase (AChE) and cytochrome c oxidase
+  (COX) were also measured because these enzymes are known to be targeted by
+  PH3. Only COX activity decreased in relation to increasing PH3 concentrations
+  in adult M. persicae. The expression of six selected genes were determined in
+  relation to PH3 treatments. No two-fold changes in the expression of the six
+  genes was observed. Thus, PH3 toxicity caused disruption in the ETC and
+  glucose supply, as well as dis-regulation of apoptosis in M. persicae.
 tags:
   - Phosphine
-  - Ethyl formate
-  - Mealybug
-  - Combined toxicity
+  - M.persicae
+  - Aphids
+  - Proteomics
+  - ETC
 categories:
   - Insect
 image:
   caption: ""
   focal_point: smart
   preview_only: false
-  filename: ""
+  filename: applsci-08-01764-ag.png
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -56,6 +51,6 @@ url_source: ""
 url_video: ""
 featured: false
 projects: []
-date: 2023-04-30T10:55:33.100Z
+date: 2018-09-29T10:55:33.100Z
 publishDate: 2017-01-01T00:00:00.000Z
 ---
