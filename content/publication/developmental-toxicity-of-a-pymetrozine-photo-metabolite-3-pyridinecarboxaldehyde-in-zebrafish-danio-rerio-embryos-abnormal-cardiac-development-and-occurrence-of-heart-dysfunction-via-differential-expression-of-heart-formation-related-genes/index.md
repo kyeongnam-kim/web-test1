@@ -2,7 +2,7 @@
 title: "Developmental toxicity of a pymetrozine photo-metabolite,
   3-pyridinecarboxaldehyde, in zebrafish (Danio rerio) embryos: Abnormal cardiac
   development and occurrence of heart dysfunction via differential expression of
-  heart formation-related genes. "
+  heart formation-related genes"
 publication_types:
   - "2"
 authors:
