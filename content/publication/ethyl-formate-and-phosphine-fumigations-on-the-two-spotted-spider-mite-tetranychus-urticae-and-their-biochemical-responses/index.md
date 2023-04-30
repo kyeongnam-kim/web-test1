@@ -5,43 +5,46 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Min-Goo Park
   - Yong Ho Lee
-  - Hwang-Ju Jeon
-  - Tae Hyung Kwon
-  - Chaeeun Kim
-  - Jungeun Park
+  - Gayoung Kim
   - Byung-Ho Lee
-  - Jeong Oh Yang
+  - Jeong-Oh Yang
   - Sung-Eun Lee
 author_notes: []
-doi: https://doi.org/10.3390/app11219877
-publication: "*Appl Sci_Basel, 11(21)*"
+doi: https://doi.org/10.1186/s13765-019-0458-9
+publication: "*Appl Biol Chem, 62, 50*"
 publication_short: ""
-abstract: Methyl bromide (MB) has been used in a wide range of applications, but
-  since it was determined to be an ozone-depleting compound, it has only been
-  used for pre-shipment and quarantine purposes in trade. Phosphine (PH3) is
-  currently the ideal fumigant as an MB alternative worldwide. However, the
-  development of PH3 resistance in the target insect pest and longer PH3
-  fumigation treatment times raise questions about the continued use of PH3.
-  This study attempted to shorten treatment time via combination treatment with
-  ethyl formate (EF). Planococcus citri was used as the main quarantine pest in
-  Korea, and the acute toxicity of EF, PH3, and EF + PH3 was determined at every
-  developmental stage. EF treatment at 4 h showed LCT99 values of 45.85~65.43
-  mg∙h/L, and PH3 treatment at 20 h showed that of 0.13~0.83 mg∙h/L depending on
-  the developmental stage. The efficacy of PH3 decreased after reducing the
-  treatment time, but synergistic effects were observed at all stages of
-  development of P. citri when both fumigants were used simultaneously for 4 h.
-  After combined treatment, dihydrolipoyl dehydrogenase expression and the
-  production of two phospholipids, PI(O-16:0) and PC(18:2), were significantly
-  reduced in treated P. citri adults compared with the control. Therefore,
-  combined treatments might be key to reducing the treatment time and resistance
-  of PH3 in the field.
+abstract: Two spotted spider mite, Tetranychus urticae, is a polyphagous pest to
+  a variety of plants and they are hard to be controlled due to occurrence of
+  resistance to acaricides. In this study, biochemical evaluation after ethyl
+  formate (EF) and phosphine (PH3) fumigation towards T. urticae might help
+  officials to control them in quarantine purposes. PH3 fumigation controlled
+  eggs (LC50; 0.158 mg/L), nymphs (LC50; 0.030 mg/L), and adults (LC50; 0.059
+  mg/L) of T. urticae, and EF effectively affected nymphs (LC50; 2.826 mg/L)
+  rather than eggs (LC50; 6.797 mg/L) and adults (LC50; 5.836 mg/L). In a longer
+  exposure time of 20 h, PH3 fumigation was 94.2-fold more effective tool for
+  control of T. urticae than EF fumigant. EF and PH3 inhibited cytochrome c
+  oxidase (COX) activity differently in both nymphs and adults of T. urticae. It
+  confirmed COX is one of target sites of these fumigants in T. urticae and COX
+  is involved in the respiratory chain as complex IV. Molecular approaches
+  showed that EF fumigation completely down-regulated the expression of cox11
+  gene at the concentration of LC10 value, while PH3 up-regulated several genes
+  greater than twofold in T. urticae nymphs treated with the concentration of
+  LC50 value. These increased genes by PH3 fumigation are ndufv1, atpB, para,
+  and ace, responsible for the expression of NADH dehydrogenase [ubiquinone]
+  flavoprotein 1, ATP synthase, and acetylcholinesterase in insects,
+  respectively. Lipidomic analyses exhibited a significant difference between
+  two fumigants-exposed groups and the control, especially an ion with 815.46
+  m/z was analyzed less than twofold in the fumigants-treated group. It was
+  identified as PI(15:1/18:3) and it may be used as a biomarker to EF and PH3
+  toxicity. These findings may contribute to set an effective control strategy
+  on T. urticae by methyl bromide alternatives such as EF and PH3 because they
+  have shared target sites on the respiratory chain in the pest.
 tags:
   - Phosphine
   - Ethyl formate
-  - Mealybug
-  - Combined toxicity
+  - Two-spotted spider mite
+  - T.urticae
 categories:
   - Insect
 image:
@@ -56,6 +59,6 @@ url_source: ""
 url_video: ""
 featured: false
 projects: []
-date: 2023-04-30T10:47:44.581Z
+date: 2019-10-01T10:47:44.581Z
 publishDate: 2017-01-01T00:00:00.000Z
 ---
