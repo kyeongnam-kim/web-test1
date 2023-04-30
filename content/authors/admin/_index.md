@@ -1,6 +1,6 @@
 ---
 title: Kyeongnam Kim
-role: Postdoctoral researcher
+role: Research Professor
 avatar_filename: avatar.jpg
 bio: My research interests include agricultural and environmental toxicology.
 interests:
@@ -20,12 +20,6 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=t1KDNnUAAAAJ&hl=ko&oi=ao
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/Kyeongnam_Kim
-    label: Follow me on Twitter
-    display:
-      header: true
 organizations:
   - name: Kyungpook National University
     url: https://www.knu.ac.kr
@@ -46,7 +40,7 @@ highlight_name: true
 first_name: Kyeongnam
 email: kn1188@knu.ac.kr
 ---
-My name is Kyeongnam Kim and I am a postdoctoral researcher of Institute of Quality and Safety Evaluation of Agricultural Products at KNU in the field of Environmental Toxicology and Ecotoxicology. 
+My name is Kyeongnam Kim and I am a research professor of Institute of Quality and Safety Evaluation of Agricultural Products at KNU in the field of Environmental Toxicology and Ecotoxicology. 
 
 My passion lies in understanding the mechanisms of action of chemicals on plants and insects using Multi-omics and evaluating the environmental impact of agrochemicals. I am also committed to developing sustainable pest management strategies. 
 
