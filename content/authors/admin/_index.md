@@ -20,6 +20,11 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=t1KDNnUAAAAJ&hl=ko&oi=ao
+  - display:
+      header: false
+    link: https://orlab.imweb.me/
+    icon_pack: fas
+    icon: flask
 organizations:
   - name: Kyungpook National University
     url: https://www.knu.ac.kr
