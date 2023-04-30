@@ -5,60 +5,63 @@ publication_types:
   - "2"
 authors:
   - admin
+  - Hwang-Ju Jeon
+  - Sung-Deuk Choi
+  - Daniel C.W. Tsang
+  - Patryk Oleszczuk
+  - Yong Sik Ok
+  - Hoi-Seon Lee
   - Sung-Eun Lee
 author_notes: []
-doi: https://doi.org/10.1016/j.chemosphere.2020.129405
-publication: "*Chemosphere, 270, 129405*"
+doi: https://doi.org/10.1016/j.chemosphere.2017.11.128
+publication: "*Chemosphere, 194:30-41*"
 publication_short: ""
-abstract: Dimethyl sulfoxide (DMSO) is produced in nature and is known to be a
-  source of carbon and sulfur for marine microorganisms. It is currently used in
-  many biological experiments, pharmaceutical preparations, and energy-producing
-  systems such as lithium batteries. Therefore, the toxicity of DMSO has been
-  studied because of its various implications to living organisms; however, such
-  studies are largely limited to measuring individual toxicity whereas the
-  combined toxicity of DMSO with other compounds has rarely been investigated.
-  In the present study, the combined acute toxicity of 0.1% and 0.5% DMSO with
-  vanadium was investigated in zebrafish embryos; the LC50 values of these
-  combinations were 62.0 and 6.38 ppm, respectively. In individual toxicity
-  tests, neither DMSO nor vanadium caused such mortality levels. Therefore, both
-  0.1% and 0.5% DMSO had a synergistic effect with vanadium, and this result was
-  confirmed using an independent action model. This combined toxicity delayed
-  the development of zebrafish embryos and caused pericardial edema. The
-  synergistic effect of DMSO and vanadium was found to be related to reduced pH
-  and inhibition of cytochrome c oxidase activity. Given its potential
-  synergistic toxicity to aquatic organisms, the introduction of DMSO into the
-  environment should be investigated and routinely monitored.
+abstract: Individual and combined toxicities of endosulfan (ENDO) with
+  phenanthrene (PHE) were evaluated using zebrafish (Danio rerio) adults. The
+  96-h LC50 values for ENDO and PHE were 4.6 μg L−1 and 920 μg L−1,
+  respectively. To evaluate the mixture toxicity, LC10 and LC50 concentrations
+  were grouped into four combinations as ENDO-LC10 + PHE-LC10, ENDO-LC10 +
+  PHE-LC50, ENDO-LC50 + PHE-LC10, and ENDO-LC50 + PHE-LC50, and their acute
+  toxicities were determined. The combination of LC50-ENDO and LC10-PHE
+  exhibited a synergistic effect. In addition, acetylcholinesterase activity
+  decreased in zebrafish bodies exposed to ENDO with or without PHE. Combined
+  treatments induced higher glutathione S-transferase activity compared to
+  individual treatments. Carboxylesterase activity increased in both heads and
+  bodies of ENDO-treated fishes compared with PHE-treated fishes. Using RT-qPCR
+  technique, CYP1A gene expression significantly up-regulated in all
+  combinations, whereas CYP3A was unchanged, suggesting that enzymes involved in
+  defense may play different roles in the detoxification. CYP7A1 gene
+  responsible for bile acid biosynthesis is dramatically down-regulated after
+  exposure to the synergistic combination exposure, referring that the
+  synergistic effect may be resulted from the reduction of bile production in
+  zebrafishes. Among gender-related genes, CYP11A1 and CYP17A1 genes in female
+  zebrafish decreased after treatment with ENDO alone and combination of
+  LC50-ENDO and LC10-PHE. This might be related to a reduction in cortisol
+  production. The overall results indicated that ENDO and PHE were toxic to
+  zebrafish adults both individually and in combination, and that their
+  co-presence induced changes in the expression of genes responsible for
+  metabolic processes and defense mechanisms.
 tags:
   - Zebrafish
-  - DMSO
-  - Solvent control
-  - Synergistic effect
+  - PAHs
+  - Phenanthrene
+  - Endosulfan
+  - Combined toxicity
 categories:
   - FISH
 image:
   caption: ""
   focal_point: smart
   preview_only: false
-  filename: dddd.jpg
-summary: >-
-  *Highlights*
-
-  • DMSO did not show acute toxicity on zebrafish embryos at the concentrations of 0.1%.
-
-
-  • Vanadium ions did not exhibit acute toxicity on zebrafish embryos at the concentration of 50 ppm.
-
-
-  • Synergistic acte toxicity was found in the simultaneous treatment of DMSO and vanadium.
-
-
-  • Developmental malformation in zebrafish embryos were observed with the synergistic effects.
+  filename: 1-s2.0-s0045653517319057-fx1_lrg.jpg
+summary: ""
 url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
 featured: false
-projects: []
-date: 2023-04-30T11:02:47.132Z
+projects:
+  - Environmental Toxicology
+date: 2018-03-01T11:02:47.132Z
 publishDate: 2017-01-01T00:00:00.000Z
 ---
