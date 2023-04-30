@@ -6,43 +6,35 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Chaeeun Kim
-  - Jeongeun Park
-  - Woosung Kim
-  - Hwang-Ju Jeon
-  - Jun-Ran Kim
+  - Dongbin Kim
+  - Tae Hyung Kwon
+  - Byung-Ho Lee
   - Sung-Eun Lee
 author_notes: []
-doi: https://doi.org/10.11626/KJEB.2021.39.3.354
-publication: "*Korean J Environ Biol, 39(3)*"
+doi: ""
+publication: "*Insects (under-review)*"
 publication_short: ""
-abstract: Understanding the phytotoxic mechanism of methyl bromide (MB), an
-  essential fumigant during the quarantine and pre-shipment process, is urgently
-  needed to ensure its proper use and reduce international economic losses. In a
-  previous study, two main MB-induced toxic mechanisms such as reactive oxygen
-  species (ROS) and auxin distribution were selected by analyzing transcriptomic
-  analysis. In the study, a 3-week-old A. thaliana was supplied with 1 mM ROS
-  scavengers [N-acetyl-L-cysteine (NAC) or L-glutathione (GSH)] and 1 μM
-  indole-3-acetic acid (IAA) three times every 12 h, and visual and gene
-  expression assessments were performed to evaluate the reduction in
-  phytotoxicity by supplements. Phytotoxic effects on the MB-4h exposed group
-  were decreased with GSH application compared to the other single supplements
-  and a combination of supplements at 7 days post fumigation. Among these
-  supplements, GSH at a concentration of 1, 2, and 5 mM was suppled to A.
-  thaliana with MB-fumigation. During a long-term observation of 2 weeks after
-  the fumigation, 5 mM GSH application was the most effective in minimizing
-  MB-induced phytotoxic effects with up-regulation of HSP70 expression and
-  increase in main stem length. These results indicated that ROS was a main key
-  factor of MB-induced phytotoxicity and that GSH can be used as a supplement to
-  reduce the phytotoxicity of MB.
+abstract: "Trialeurodes vaporariorum (Hemiptera: Aleyrodidae), commonly known as
+  greenhouse whitefly, is one of the main insect pests of Oriental melon
+  (Cucumis melo var L.) in South Korea. T. vaporariorum is of concern as a
+  quarantine pest for the exportation of C. melo in Southeast Asian countries.
+  Due to future restrictions on the use of methyl bromide (MB) during
+  quarantine, ethyl formate (EF) represents a potential alternative. In this
+  study, we evaluated EF for its efficacy (probit-9 values) in enabling the
+  export of Oriental melons. The probit-9 value of EF for controlling T.
+  vaporariorum was 3.02 g·h/m3 after 2 h of fumigation. We also assessed the
+  phytotoxicity of EF on melons when using modified atmosphere packaging (MAP)
+  under low-temperature conditions, which is required for export and trade, to
+  extend shelf-life. In scaled-up trials, we found that 8 g/m3 EF for 2 h at 5°C
+  to be suitable as a new phytosanitary treatment against greenhouse whitefly
+  for exported Oriental melons when using MAP. No phytotoxic damage was found 28
+  d after fumigation at 5°C in terms of five quality parameters (firmness, sugar
+  content, mass loss, color change, and external damage)."
 tags:
-  - Quarantine fumigant
-  - Phytotoxicity mechanism
-  - Reactive oxidative stress
-  - Glutathione
-  - Methyl bromide
+  - Fumigation; exported oriental melon; the greenhouse whitefly; modified
+    atmosphere packaging; phytosanitary export
 categories:
-  - Plant
+  - Ethyl formate
 image:
   caption: ""
   focal_point: smart
@@ -54,7 +46,8 @@ url_project: ""
 url_source: ""
 url_video: ""
 featured: false
-projects: []
+projects:
+  - Ethyl formate
 date: 2023-04-30T09:52:09.965Z
 publishDate: 2017-01-01T00:00:00.000Z
 ---
