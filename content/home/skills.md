@@ -23,7 +23,7 @@ feature:
   - description: 90%
     icon: seedling
     icon_pack: fas
-    name: Handling of Eukaryotic Organisms 
+    name: Handling of Organisms 
   - description: 100%
     icon: mask-ventilator
     icon_pack: fas
