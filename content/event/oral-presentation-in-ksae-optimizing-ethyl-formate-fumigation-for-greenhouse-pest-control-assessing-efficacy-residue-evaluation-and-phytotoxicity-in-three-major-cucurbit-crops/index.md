@@ -23,8 +23,9 @@ location: Grand Plaza Cheongju Hotel
 date: 2023-04-27T04:20:43.649Z
 date_end: 2022-10-27T15:00:00.000Z
 all_day: false
-event: 2022 Fall International Conference of KSAE (60th Anniversary)
-event_url: https://www.entomology.or.kr/notice/view.php?idx=6988
+event: 2023 Spring Conference of KSAE (Combined conference with The
+  Entomological Society of Korea)
+event_url: https://www.entomology.or.kr/notice/view.php?idx=7010&page=1&search=&find=
 featured: false
 authors: []
 url_video: ""
@@ -42,11 +43,11 @@ links:
     url: https://twitter.com/georgecushen
 publishDate: 2023-04-30T08:27:43.667Z
 tags:
+  - Ethyl formate
+  - Greenhouse
   - Phytotoxicity
-  - Methyl bromide
-  - Phosphine
-  - Transcriptomics
-  - Mode of action
+  - Aphids
+  - Trips
 projects:
   - example
 image:
