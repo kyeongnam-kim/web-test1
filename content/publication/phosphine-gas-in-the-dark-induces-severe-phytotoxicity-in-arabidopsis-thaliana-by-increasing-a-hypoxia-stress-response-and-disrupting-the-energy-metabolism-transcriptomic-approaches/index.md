@@ -35,16 +35,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: "*J Hazad Mater, 419*"
-summary: >-
-  Highlights
-
-  • MB, an ozone-depleting substance, has been used as a vital fumigant in quarantine.
-
-  • MB phytotoxicity was evaluated using A. thaliana to understand a molecular mechanism.
-
-  • The 4 h-MB fumigation at 40 mg/L caused severe phytotoxicity in all evaluation indicators.
-
-  •Transcriptomic analysis revealed that ROS and auxin distribution are strongly related to phytotoxicity.
+summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
@@ -67,7 +58,7 @@ image:
   caption: ""
   focal_point: smart
   preview_only: false
-  filename: https://ars.els-cdn.com/content/image/1-s2.0-S0304389421013844-ga1.jpg
+  filename: 1-s2.0-s0304389421013844-ga1_lrg.jpg
 date: 2021-10-05T11:11:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
