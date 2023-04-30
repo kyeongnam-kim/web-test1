@@ -1,7 +1,7 @@
 ---
 title: "Developmental toxicity of 3-phenoxybenzoic acid (3-PBA) and endosulfan
   sulfate derived from insecticidal active ingredients: Abnormal heart formation
-  by 3-PBA in zebrafish embryos."
+  by 3-PBA in zebrafish embryos"
 publication_types:
   - "2"
 authors:
