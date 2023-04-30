@@ -6,60 +6,50 @@ publication_types:
   - "2"
 authors:
   - admin
+  - Chi-Hwa Wang
+  - Yong Sik Ok
   - Sung-Eun Lee
 author_notes: []
-doi: https://doi.org/10.1016/j.chemosphere.2020.129405
-publication: "*Chemosphere, 270, 129405*"
+doi: https://doi.org/10.1016/j.jhazmat.2018.09.089
+publication: "*J Hazard Mat, 363: 127-137*"
 publication_short: ""
-abstract: Dimethyl sulfoxide (DMSO) is produced in nature and is known to be a
-  source of carbon and sulfur for marine microorganisms. It is currently used in
-  many biological experiments, pharmaceutical preparations, and energy-producing
-  systems such as lithium batteries. Therefore, the toxicity of DMSO has been
-  studied because of its various implications to living organisms; however, such
-  studies are largely limited to measuring individual toxicity whereas the
-  combined toxicity of DMSO with other compounds has rarely been investigated.
-  In the present study, the combined acute toxicity of 0.1% and 0.5% DMSO with
-  vanadium was investigated in zebrafish embryos; the LC50 values of these
-  combinations were 62.0 and 6.38 ppm, respectively. In individual toxicity
-  tests, neither DMSO nor vanadium caused such mortality levels. Therefore, both
-  0.1% and 0.5% DMSO had a synergistic effect with vanadium, and this result was
-  confirmed using an independent action model. This combined toxicity delayed
-  the development of zebrafish embryos and caused pericardial edema. The
-  synergistic effect of DMSO and vanadium was found to be related to reduced pH
-  and inhibition of cytochrome c oxidase activity. Given its potential
-  synergistic toxicity to aquatic organisms, the introduction of DMSO into the
-  environment should be investigated and routinely monitored.
+abstract: This study assessed the developmental toxicities of water-soluble
+  carbon black wastes (CBW) extract (1:5, w/v) in zebrafish embryos (Danio
+  rerio). Acute embryonic toxicity was performed following OECD guideline 236.
+  Analysis using ICP-OES revealed that nickel (Ni) and vanadium (V) were
+  predominant in CBW. Embryos exposed to CBW exhibited developmental delay,
+  along with pericardial and yolk sac edemas. Malformed heart chambers were
+  found in the CBW-exposed embryos and heart rates were significantly reduced
+  since 48 h post fertilization (hpf). After RT-qPCR analysis, two cardiac
+  forming-related genes, amhc and nppa responsible for atrial cardiac myofibril
+  assembly and cardiac muscle cell proliferation, were up-regulated after 96
+  hpf. The increased mortality and delayed yolk-sac development appeared related
+  to CBW-induced decrease in pH to about 5.5. Individual treatments of Ni and V
+  did not cause identical toxic effects as CBW showed. At 100 ppm, V had a pH of
+  approximately 5.5, causing developmental delay and pericardial edema in
+  zebrafish embryos. At the same pH, combined Ni and V induced morphological
+  anomalies and reduced heart rates similar to CBW-exposed embryos.
+  Conclusively, this study demonstrates that environmental runoff is a serious
+  concern, and thus, CBW incineration bottom ash should be treated carefully
+  before disposal in landfills.
 tags:
   - Zebrafish
-  - DMSO
-  - Solvent control
-  - Synergistic effect
+  - Carbon black waste
+  - Vanadium
 categories:
   - FISH
 image:
   caption: ""
   focal_point: smart
   preview_only: false
-  filename: dddd.jpg
-summary: >-
-  *Highlights*
-
-  • DMSO did not show acute toxicity on zebrafish embryos at the concentrations of 0.1%.
-
-
-  • Vanadium ions did not exhibit acute toxicity on zebrafish embryos at the concentration of 50 ppm.
-
-
-  • Synergistic acte toxicity was found in the simultaneous treatment of DMSO and vanadium.
-
-
-  • Developmental malformation in zebrafish embryos were observed with the synergistic effects.
+  filename: 1-s2.0-s0304389418308835-ga1_lrg.jpg
+summary: ""
 url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
 featured: false
 projects: []
-date: 2023-04-30T10:52:08.167Z
+date: 2019-02-05T10:52:08.167Z
 publishDate: 2017-01-01T00:00:00.000Z
 ---
