@@ -23,8 +23,8 @@ social:
   - display:
       header: false
     link: https://orlab.imweb.me/
-    icon_pack: far
-    icon: fa-flask-vial
+    icon_pack: fas
+    icon: flask
 organizations:
   - name: Kyungpook National University
     url: https://www.knu.ac.kr
