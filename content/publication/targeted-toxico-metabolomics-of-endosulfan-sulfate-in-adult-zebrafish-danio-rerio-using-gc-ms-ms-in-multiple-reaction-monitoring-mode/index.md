@@ -1,40 +1,37 @@
 ---
-abstract: "Endosulfan sulfate is a major oxidative metabolite of the chlorinated
-  insecticide endosulfan. In this study, a targeted metabolomics approach was
-  used to investigate the toxic mechanisms of endosulfan sulfate in adult
-  zebrafish using the multiple reaction monitoring mode of a GC-MS/MS. The LC50
-  of endosulfan sulfate in adult zebrafish was determined and then zebrafish
-  were exposed to endosulfan sulfate at one-tenth the LC50 (0.1LC50) or the LC50
-  for 24 and 48 h. After exposure, the fish were extracted, derivatized and
-  analyzed by GC-MS/MS for 379 metabolites to identify 170 metabolites. Three
-  experimental groups (control, 0.1LC50 and LC50) were clearly separated in
-  PLS-DA score plots. Based on the VIP, ANOVA, and fold change results, 40
-  metabolites were selected as biomarkers. Metabolic pathways associated with
-  those metabolites were identified using MetaboAnalyst 4.0 as follows:
-  aminoacyl-tRNA biosynthesis, valine/leucine/isoleucine biosynthesis, citrate
-  cycle, glycerolipid metabolism, and arginine/proline metabolism. Gene
-  expression studies confirmed the activation of citrate cycle and glycerolipids
-  metabolism. MDA levels of the exposed group significantly increased in
-  oxidative toxicity assay tests. Such significant perturbations of important
-  metabolites within key biochemical pathways must result in biologically
-  hazardous effects in zebrafish."
+abstract: Phosphine (PH3) is an ideal fumigant alternative on methyl bromide
+  (MB) as MB has been classified as an ozone-depleting substance. However,
+  several challenges limit its efficient use in crop production, including the
+  emergence of PH3-resistant insect pests and the incidence of phytotoxic
+  effects on nursery plants. Therefore, this study aims to elucidate the
+  mechanism underlying PH3 phytotoxicity in plants using transcriptomic
+  techniques. Fumigation with 2 g/m3 PH3 induced phytotoxic effects in A.
+  thaliana, as evidenced by a decrease in growth and vegetation indices compared
+  to the control group. Transcriptomic analysis revealed that PH3 fumigation
+  phytotoxicity responses in A. thaliana involve genes related to hypoxia stress
+  and energy metabolism. Additionally, pretreatment with ethylene induced
+  pre-adaptation to hypoxia under light conditions during fumigation effectively
+  suppressed the phytotoxic effects of PH3 in A. thaliana by increasing the
+  expression of hypoxia-adaptive genes. Moreover, the phytotoxicity of PH3 was
+  also confirmed in pumpkin (Cucurbita moschata Duch.), and was dependent on
+  light. Overall, our findings showed that fumigation under light conditions and
+  ethylene pretreatment could be used to minimize PH3-induced phytotoxic effects
+  in plants.
 slides: example
 url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Hwa-Kyung Lee
   - admin
-  - Junghak Lee
-  - Jonghwa Lee
-  - Jiho Lee
-  - Sooyeon Kim
+  - Chaeeun Kim
+  - Jinsung Yoo
+  - Jun-Ran Kim
+  - Yoon-Ha Kim
   - Sung-Eun Lee
-  - Jeong-Han Kim
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: "*J Hazad Mater, 389, 122056*"
+publication: "*J Hazad Mater, 443(A), 130141*"
 summary: IF, 14.224 (2022 JCR), *ENVIRONMENTAL SCIENCES - 3.05% (Q1)*
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
@@ -45,24 +42,20 @@ title: "Phosphine gas in the dark induces severe phytotoxicity in Arabidopsis
   thaliana by increasing a hypoxia stress response and disrupting the energy
   metabolism: Transcriptomic approaches"
 subtitle: ""
-doi: https://doi.org/10.1016/j.jhazmat.2020.122056
+doi: https://doi.org/10.1016/j.jhazmat.2022.130141
 featured: true
 tags:
-  - Targeted metabolomics
-  - Endosulfan sulfate
-  - Zebrafish
-  - GC-MS/MS
-  - Toxicometabolomic
+  - FumigationMechanism of toxicityEthylenePhotoperiodElectron transport chain
 categories:
-  - Zebrafish
+  - Plant
 projects:
   - example
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: 1-s2.0-s030438942030042x-ga1_lrg.jpg
-date: 2023-04-30T10:28:08.929Z
+  filename: 1-s2.0-s0304389422019355-ga1_lrg.jpg
+date: 2023-02-05T10:28:08.929Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
