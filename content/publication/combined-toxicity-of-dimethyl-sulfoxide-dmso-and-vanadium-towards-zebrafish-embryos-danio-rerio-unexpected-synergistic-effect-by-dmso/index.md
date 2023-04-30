@@ -6,8 +6,7 @@ publication_types:
 authors:
   - admin
   - Sung-Eun Lee
-author_notes:
-  - Equal contribution
+author_notes: []
 doi: https://doi.org/10.1016/j.chemosphere.2020.129405
 publication: "*Chemosphere, 270, 129405*"
 publication_short: ""
