@@ -35,7 +35,7 @@ feature:
   - description: 100%
     icon: paintbrush
     icon_pack: fas
-    name: Illustration
+    name: Scientific Illustration
   - description: 70%
     icon: r-project
     icon_pack: fab
