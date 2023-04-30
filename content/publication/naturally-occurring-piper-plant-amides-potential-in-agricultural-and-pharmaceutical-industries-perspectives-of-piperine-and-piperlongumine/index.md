@@ -6,33 +6,30 @@ publication_types:
 authors:
   - Hwang-Ju Jeon
   - admin
-  - Chaeeun Kim
+  - Yong-Deuk Kim
   - Sung-Eun Lee
-author_notes:
-  - Equal contribution
-  - Equal contribution
-doi: https://doi.org/10.3390/foods12050926
-publication: "*Foods, 12(5), 926*"
+author_notes: []
+doi: https://doi.org/10.1186/s13765-019-0471-z
+publication: "*Appl Biol Chem 62, 63*"
 publication_short: ""
-abstract: Regulation of melanin production via the MC1R signaling pathway is a
-  protective mechanism of the skin of living organisms against exposure to
-  ultraviolet rays. The discovery of human skin-whitening agents has been one of
-  the most intense pursuits of the cosmetic industry. The MC1R signaling pathway
-  is activated by its agonist, alpha-melanocyte stimulating hormone (α-MSH), and
-  mainly regulates melanogenesis. Here, we evaluated the antimelanogenic
-  activities of curcumin (CUR) and its two derivatives, dimethoxycurcumin (DMC)
-  and bisdemethoxycurcumin (BDMC), in B16F10 mouse melanoma cells and zebrafish
-  embryos. CUR and BDMC reduced the α-MSH-induced melanin production in B16F10
-  cells and also downregulated the expression of the melanin-production-related
-  genes Tyr, Mitf, Trp-1, and Trp-2. Moreover, the biological activity of these
-  two compounds against melanogenesis was confirmed in in vivo experiments using
-  zebrafish embryos. However, the highest concentration of CUR (5 µM) resulted
-  in slight malformations in zebrafish embryos, as indicated by acute toxicity
-  tests. In contrast, DMC did not show any biological activity in vitro or in
-  vivo. Conclusively, BDMC is a strong candidate as a skin-whitening agent.
+abstract: Piperaceae plants consist of about 3600 species, of which about 2000
+  are Piper plants. Their habitat is distributed across pantropical regions. The
+  representative plant is Piper nigrum, known as black pepper. These plants have
+  been widely used in folk medicine in Korean traditional medicine. This review
+  collected papers identifying and separating the amides obtained from these
+  Piper plants, with a focus on Piper amides potential to control the production
+  and growth of fungal strains that cause plant disease and their insecticidal
+  properties against agricultural pests. Piper amide benefits include
+  antiaflatoxigenic activities, antiparasitic activities, anticancer properties,
+  antiplatelet activities, and anti-inflammatory activities, among other
+  therapeutic properties for the treatment of human diseases. In addition, this
+  review paper provides a total synthesis study on the mass production of Piper
+  amides and their derivatives, with a formulation study for industrial use.
+  This review paper is designed to help inform future studies on Piper amide
+  applications.
 tags:
+  - Review
   - Antimelanogenic effect
-  - Curcumin
   - B16F10
   - Zerbafish
 categories:
@@ -41,7 +38,7 @@ image:
   caption: ""
   focal_point: smart
   preview_only: false
-  filename: foods-12-00926-g005.png
+  filename: 13765_2019_471_fig2_html.webp
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -49,6 +46,6 @@ url_source: ""
 url_video: ""
 featured: false
 projects: []
-date: 2023-04-30T10:44:42.283Z
+date: 2019-11-04T10:44:42.283Z
 publishDate: 2017-01-01T00:00:00.000Z
 ---
