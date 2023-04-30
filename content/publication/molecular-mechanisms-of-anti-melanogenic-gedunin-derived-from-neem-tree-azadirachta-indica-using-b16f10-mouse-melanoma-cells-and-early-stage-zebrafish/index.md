@@ -8,12 +8,12 @@ authors:
   - Hwang-Ju Jeon
   - admin
   - Chaeeun Kim
+  - Myoung-Jin Kim
+  - Tae-Oh Kim
   - Sung-Eun Lee
-author_notes:
-  - Equal contribution
-  - Equal contribution
-doi: https://doi.org/10.3390/foods12050926
-publication: "*Foods, 12(5), 926*"
+author_notes: []
+doi: https://doi.org/10.3390/plants10020330
+publication: "*Plants, 10(2), 330*"
 publication_short: ""
 abstract: Regulation of melanin production via the MC1R signaling pathway is a
   protective mechanism of the skin of living organisms against exposure to
@@ -33,7 +33,8 @@ abstract: Regulation of melanin production via the MC1R signaling pathway is a
   vivo. Conclusively, BDMC is a strong candidate as a skin-whitening agent.
 tags:
   - Antimelanogenic effect
-  - Curcumin
+  - Neem tree
+  - Gedunin
   - B16F10
   - Zerbafish
 categories:
@@ -50,6 +51,6 @@ url_source: ""
 url_video: ""
 featured: false
 projects: []
-date: 2023-04-30T10:11:47.657Z
+date: 2021-02-09T10:11:47.657Z
 publishDate: 2017-01-01T00:00:00.000Z
 ---
