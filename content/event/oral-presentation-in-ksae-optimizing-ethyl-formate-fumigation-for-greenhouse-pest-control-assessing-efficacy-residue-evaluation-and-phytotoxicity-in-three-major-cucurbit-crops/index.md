@@ -20,7 +20,7 @@ title: Oral presentation in KSAE - Optimizing Ethyl Formate Fumigation for
   Greenhouse Pest Control
 location: Grand Plaza Cheongju Hotel
 date: 2023-04-27T04:20:43.649Z
-date_end: 2022-10-27T15:00:00.000Z
+date_end: 2023-04-28T04:00:00.000Z
 all_day: false
 event: 2023 Spring Conference of KSAE (Combined conference with The
   Entomological Society of Korea)
