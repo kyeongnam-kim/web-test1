@@ -1,7 +1,7 @@
 ---
 title: "Effective phytosanitary treatment for export of Oriental melons (Cucumis
   melo var L.) using ethyl formate and modified atmosphere packaging to control
-  Trialeurodes vaporariorum (Hemiptera: Aleyrodidae). "
+  Trialeurodes vaporariorum (Hemiptera: Aleyrodidae)"
 publication_types:
   - "2"
 authors:
