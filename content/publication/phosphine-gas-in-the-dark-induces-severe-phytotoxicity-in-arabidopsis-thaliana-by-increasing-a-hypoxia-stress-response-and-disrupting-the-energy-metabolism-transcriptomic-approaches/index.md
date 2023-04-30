@@ -54,7 +54,7 @@ title: Transcriptomic evaluation on methyl bromide-induced phytotoxicity in
   Arabidopsis thaliana and its mode of phytotoxic action via the occurrence of
   reactive oxygen species and uneven distribution of auxin hormones
 doi: https://doi.org/10.1016/j.jhazmat.2021.126419
-featured: false
+featured: true
 tags:
   - Methyl bromide
   - A.thaliana
