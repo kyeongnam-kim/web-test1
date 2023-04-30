@@ -5,13 +5,12 @@ title: "Enantioselective effect of trifloxystrobin in early-stage zebrafish
 publication_types:
   - "2"
 authors:
-  - Jungeun Park
   - Yurim Kim
   - Hwang-Ju Jeon
   - admin
   - Chaeeun Kim
-  - Seung ki Lee
-  - Jino Son
+  - Joon-Kwan Moon
+  - Kyu-Won Hwang
   - Sung-Eun Lee
 author_notes:
   - Equal contribution
