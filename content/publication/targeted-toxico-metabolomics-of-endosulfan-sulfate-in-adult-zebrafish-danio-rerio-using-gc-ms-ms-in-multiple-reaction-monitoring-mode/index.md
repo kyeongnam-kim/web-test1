@@ -41,8 +41,9 @@ url_project: ""
 publication_short: ""
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
-title: Targeted toxico-metabolomics of endosulfan sulfate in adult zebrafish
-  (Danio rerio) using GC-MS/MS in multiple reaction monitoring mode
+title: "Phosphine gas in the dark induces severe phytotoxicity in Arabidopsis
+  thaliana by increasing a hypoxia stress response and disrupting the energy
+  metabolism: Transcriptomic approaches"
 subtitle: ""
 doi: https://doi.org/10.1016/j.jhazmat.2020.122056
 featured: true
