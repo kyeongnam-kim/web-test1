@@ -19,7 +19,7 @@ feature:
   - description: 100%
     icon: microscope
     icon_pack: fas
-    name: Molecular Biology
+    name: Molecular Biology Tech.
   - description: 90%
     icon: seedling
     icon_pack: fas
@@ -28,7 +28,7 @@ feature:
     icon: mask-ventilator
     icon_pack: fas
     name: Fumigation
-  - description: 90%
+  - description: 85%
     icon: flask-vial
     icon_pack: fas
     name: Analytical instrument
