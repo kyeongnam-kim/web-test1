@@ -22,13 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Professor
+    company: Institute of Quality and Safety Evaluation of Agricultural Products, KNU
+    company_url: ''
+    company_logo: KNU
+    location: Daegu
+    date_start: '2023-03-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * PH3-resistant mechanism study: Developing *T. castaneum* mutant model using Crispr-Cas9 
+        * Optimizing of Ethyl formate fumigation for greenhouse pest control
+       
+       
   - title: Postdoctoral researcher / Instructor
     company: Institute of Quality and Safety Evaluation of Agricultural Products, KNU
     company_url: ''
     company_logo: KNU
     location: Daegu
     date_start: '2022-09-01'
-    date_end: ''
+    date_end: '2023-02-28'
     description: |2-
         Responsibilities include:
         
