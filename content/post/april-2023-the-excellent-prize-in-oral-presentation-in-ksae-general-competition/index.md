@@ -3,9 +3,7 @@ title: April 2023, The excellent prize in oral presentation in KSAE(General,
   competition)
 subtitle: " 👋 The excellent prize in oral presentation in KSAE in April 28 2023"
 date: 2023-04-30T08:42:27.681Z
-summary: " 👋 Two papers related to quarantine fumigation in 2021 and 2022
-  published in J. Hazard. Mat. were listed in the 'People who Shine Korea
-  (Hanbitsa)' of the Biological Research Information Center (BRIC) in December."
+summary: ""
 draft: false
 featured: false
 authors:
@@ -22,6 +20,6 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-  filename: 그림1.jpg
+  filename: ex.png
 ---
 Optimizing Ethyl Formate Fumigation for Greenhouse Pest Control: Assessing Efficacy, Residue Evaluation, and Phytotoxicity in Three Major Cucurbit Crops
