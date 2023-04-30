@@ -5,42 +5,43 @@ title: "Acute toxicity of the insecticide EPN upon zebrafish (Danio rerio)
 publication_types:
   - "2"
 authors:
-  - Jungeun Park
-  - Chaeeun Kim
+  - Hyeseung Choe
+  - Myoung-jin Kim
   - Hwang-Ju Jeon
   - admin
-  - Myoung-jin Kim
-  - Joon-Kwan Moon
+  - Chaeeun Kim
+  - Jungeun Park
+  - Junnyeong Shin
+  - Sang-Ryong Lee
   - Sung-Eun Lee
 author_notes:
   - Equal contribution
   - Equal contribution
   - Equal contribution
-doi: https://doi.org/10.1016/j.ecoenv.2021.112689
-publication: "*Ecotoxicol Environ Saf, 224, 112689*"
+doi: https://doi.org/10.1016/j.ecoenv.2021.112544
+publication: "*Ecotoxicol Environ Saf, 222, 112544*"
 publication_short: ""
-abstract: Pyrethroid and organochlorine insecticides are enormously used to
-  control agricultural and indoor insect pests. The metabolites of pyrethroid
-  and endosulfan were used to evaluate environmental toxicities using a
-  representative animal model, zebrafish (Danio rerio) embryos in this study.
-  The LC50 values in 3-phenoxy benzoic acid (3-PBA) and endosulfan sulfate (ES)
-  were 1461 μg/L and 1459 μg/L, respectively. At the concentration of 2000 μg/L,
-  spine curvature was observed in the ES-treated embryos. ES showed seizure-like
-  events with an EC50 value of 354 μg/L. At the concentration of 1000 μg/L, the
-  pericardial edema was observed in 3-PBA-treated embryos. The inhibition of
-  heart development and the reduction of beating rates were observed in
-  Tg(cmlc2:EGFP) embryos after the exposure to 3-PBA. Down-regulation of the
-  vmhc gene coding ventricular myosin during heart development was significantly
-  found in 3-PBA-treated embryos at 48 hpf, but recovered afterward. It
-  indicates that ventricular malformation occurred at the initial stage of 3-PBA
-  exposure. Considered together, both 3-PBA and ES need public concerns with
-  periodic monitoring of these metabolites in households and agricultural areas
-  to prevent humans and environmental organisms from their unexpected attacks.
+abstract: Toxicological studies of O-ethyl-O-(4-nitrophenyl)
+  phenylphosphonothioate (EPN) to aquatic vertebrates have been reported, but no
+  reports on toxic mechanism was reported. As zebrafish (Danio rerio) embryos
+  were exposed to EPN, no changes in their survival and hatching rates were
+  observed until 96 h post fertilization (hpf), even at the highest treated
+  concentration of 500 μg/L. In both 250 μg/L and 500 μg/L, edemas were observed
+  in the heart and yolk sac, and a blood pool was also found. Acridine orange
+  staining confirmed apoptotic phynotype, which was the strongest in embryos at
+  48 hpf. No noticeable difference in the formation and the shape of blood
+  vessels of Tg(fli1a:EGFP) was observed. However, the total body length and
+  number of somite were decreased. Heart formation in Tg(cmlc2:EGFP) were not
+  properly proceeded, and the ventricle did not beat normally at 500 μg/L level.
+  Cardiac development-related genes, myl7 and nppa, were significantly down- and
+  up-regulated in a concentration-dependent manner. The slowed heartbeat was
+  confirmed using Tg(gata1:EGFP), showing stagnant blood flow and seizure-like
+  events were observed. Altogether, EPN can be the cause for the abnormal heart
+  development accompanied by blood stagnation in embryos, interfering normal
+  development with their inner circulatory system.
 tags:
   - Pesticide
-  - endosulfan
-  - 3-PBA
-  - metabolites
+  - EPN
   - zerbafish
 categories:
   - FISH
@@ -48,26 +49,25 @@ image:
   caption: ""
   focal_point: smart
   preview_only: false
-  filename: 1-s2.0-s0147651323001586-ga1_lrg.jpg
+  filename: 1-s2.0-s0147651321006564-ga1_lrg.jpg
 summary: >-
   Highlights
 
-  • 3-Phenoxybenzoic acid (3-PBA) and endosulfan sulfate (ES) showed LC50 value of 1461 and 1459 µg/L, respectively.
+  • EPN showed no changes in survival and hatching rates of zebrafish embryos.
 
+  • In 250 ppb and 500 ppb levels, edemas were observed in heart and yolk sac.
 
-  • 3-PBA caused pericardial edema in zebrafish embryos at 1000 and 2000 µg/L concentrations and hatching rates decreased.
+  • Abnormal heart formation in Tg(cmlc2:EGFP) was clearly observed at 500 ppb level.
 
+  • The slowed heartbeat confirmed using Tg(gata1:EGFP), showing stagnant blood flow.
 
-  • Heart malformation in Tg(cmlc2:EGFP) after 3-PBA treatment was occurred, and the heart beat rate dramatically decreased.
-
-
-  • Seizure after ES exposure in zebrafish larvae were observed and EC50 value was reached to about 350 µg/L level.
+  • Seizure-like events were determined using EEG system in EPN-treated larvae.
 url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
 featured: false
 projects: []
-date: 2023-04-30T09:48:18.005Z
+date: 2021-10-01T09:48:18.005Z
 publishDate: 2017-01-01T00:00:00.000Z
 ---
