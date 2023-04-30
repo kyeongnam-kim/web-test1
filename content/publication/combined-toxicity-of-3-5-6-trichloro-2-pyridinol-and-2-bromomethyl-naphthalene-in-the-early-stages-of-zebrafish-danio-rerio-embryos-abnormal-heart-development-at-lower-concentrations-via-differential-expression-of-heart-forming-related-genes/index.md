@@ -6,12 +6,10 @@ title: "Combined toxicity of 3,5,6-trichloro-2-pyridinol and 2-(bromomethyl)
 publication_types:
   - "2"
 authors:
-  - Yurim Kim
   - Hwang-Ju Jeon
+  - Yerin Cho
   - admin
   - Chaeeun Kim
-  - Joon-Kwan Moon
-  - Kyu-Won Hwang
   - Sung-Eun Lee
 author_notes:
   - Equal contribution
