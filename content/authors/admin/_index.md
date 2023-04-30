@@ -23,7 +23,7 @@ social:
   - display:
       header: false
     link: https://orlab.imweb.me/
-    icon_pack: fas
+    icon_pack: far
     icon: flask
 organizations:
   - name: Kyungpook National University
