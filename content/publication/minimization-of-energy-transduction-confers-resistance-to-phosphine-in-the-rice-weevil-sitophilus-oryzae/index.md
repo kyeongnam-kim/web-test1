@@ -17,7 +17,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-doi: https://www.nature.com/articles/s41598-019-50972-w
+doi: https://doi.org/10.1038/s41598-019-50972-w
 publication: "*Sci Rep, 9(1), 14605*"
 publication_short: ""
 abstract: Infestation of phosphine (PH3) resistant insects threatens global
