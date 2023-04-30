@@ -39,8 +39,9 @@ abstract: Trifloxystrobin (TFS) is one of the extensively used strobilurin
   environmental organisms.
 tags:
   - Zebrafish
-  - PAHs
-  - Pollutants
+  - Pesticide
+  - Enantiomer
+  - Trifloxystrobin
   - Developmental toxicity
 categories:
   - FISH
