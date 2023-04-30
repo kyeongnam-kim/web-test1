@@ -35,7 +35,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: "*J Hazad Mater, 419*"
-summary: ""
+summary: IF, 10.588 (2020 JCR), *ENVIRONMENTAL SCIENCES - 3.22% (Q1)*
 url_dataset: ""
 url_project: ""
 publication_short: ""
