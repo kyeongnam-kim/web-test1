@@ -5,35 +5,45 @@ title: "Molecular mechanisms of developmental toxicities of azoxystrobin and
 publication_types:
   - "2"
 authors:
+  - Chaeeun Kim
+  - Hyeseung Choe
+  - Jungeun Park
+  - Gayoung Kim
   - admin
+  - Hwang-Ju Jeon
+  - Joon-Kwan Moon
+  - Myoung-Jin Kim
   - Sung-Eun Lee
-author_notes: []
-doi: https://doi.org/10.1016/j.chemosphere.2020.129405
-publication: "*Chemosphere, 270, 129405*"
+author_notes:
+  - Equal contribution
+  - Equal contribution
+  - Equal contribution
+doi: https://doi.org/10.1016/j.envpol.2020.116087
+publication: "*Eviron Pollu, 270, 116087*"
 publication_short: ""
-abstract: Dimethyl sulfoxide (DMSO) is produced in nature and is known to be a
-  source of carbon and sulfur for marine microorganisms. It is currently used in
-  many biological experiments, pharmaceutical preparations, and energy-producing
-  systems such as lithium batteries. Therefore, the toxicity of DMSO has been
-  studied because of its various implications to living organisms; however, such
-  studies are largely limited to measuring individual toxicity whereas the
-  combined toxicity of DMSO with other compounds has rarely been investigated.
-  In the present study, the combined acute toxicity of 0.1% and 0.5% DMSO with
-  vanadium was investigated in zebrafish embryos; the LC50 values of these
-  combinations were 62.0 and 6.38 ppm, respectively. In individual toxicity
-  tests, neither DMSO nor vanadium caused such mortality levels. Therefore, both
-  0.1% and 0.5% DMSO had a synergistic effect with vanadium, and this result was
-  confirmed using an independent action model. This combined toxicity delayed
-  the development of zebrafish embryos and caused pericardial edema. The
-  synergistic effect of DMSO and vanadium was found to be related to reduced pH
-  and inhibition of cytochrome c oxidase activity. Given its potential
-  synergistic toxicity to aquatic organisms, the introduction of DMSO into the
-  environment should be investigated and routinely monitored.
+abstract: Azoxystrobin (AZ) and pyraclostrobin (PY) are strobilurin fungicides
+  that inhibit fungal mitochondrial respiration. In this study, a representative
+  model, zebrafish (Danio rerio), was used as a test species for acute and
+  developmental toxicity. Survival and malformation rates were observed only
+  PY-treated embryos, with an LC50 value of 77.75 ppb accompanied by a dramatic
+  decrease in hatching rate, while AZ did not show great mortality.
+  Morphological changes were observed in PY-treated embryos with the occurrence
+  of pericadial edema at 25 ppb. A delay in growth was observed after treatment
+  with pyraclostrobin at 50 ppb. Use of genetically engineered Tg(cmlc:EGFP)
+  allowed fluorescence observation during heart development. PY interfered with
+  normal heart development via upregulation of the nppa gene responsible for the
+  expression of natriuretic peptides. Heart function was dramatically reduced as
+  indicated by reduced heart rates. Increased expression of the nppa gene was
+  also seen in AZ-treated embryos. The expression level of cyp24a1 was also
+  up-regulated, while ugt1a1 and sult1st6 were down-regulated after treatment of
+  zebrafish embryos with AZ or PY. Overall, strobilurin fungicides might inhibit
+  normal heart formation and function within the range of concentrations tested.
 tags:
   - Zebrafish
-  - DMSO
-  - Solvent control
-  - Synergistic effect
+  - Pesticides
+  - Azoxystrobin
+  - Pyraclostrobin
+  - Developmental toxicity
 categories:
   - FISH
 image:
@@ -41,25 +51,28 @@ image:
   focal_point: smart
   preview_only: false
   filename: dddd.jpg
-summary: >-
-  *Highlights*
+summary: |-
+  Highlights
+  •
+  Pyraclostrobin (PY) exhibited strong acute toxicity to zebrafish embryos.
 
-  • DMSO did not show acute toxicity on zebrafish embryos at the concentrations of 0.1%.
+  •
+  PY generated pericardial and yolk sac edemas in zebrafish embryos.
 
+  •
+  PY inhibited body growth in a transgenic zebrafish Tg(fli1a:EGFP).
 
-  • Vanadium ions did not exhibit acute toxicity on zebrafish embryos at the concentration of 50 ppm.
+  •
+  PY interfered heart formation in a transgenic zebrafish Tg(cmlc:EGFP).
 
-
-  • Synergistic acte toxicity was found in the simultaneous treatment of DMSO and vanadium.
-
-
-  • Developmental malformation in zebrafish embryos were observed with the synergistic effects.
+  •
+  Heart malformation by PY is strongly related to up-regulation of nppa gene.
 url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
 featured: false
 projects: []
-date: 2023-04-30T10:05:38.381Z
+date: 2021-02-01T10:05:38.381Z
 publishDate: 2017-01-01T00:00:00.000Z
 ---
