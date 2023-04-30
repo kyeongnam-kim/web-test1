@@ -35,7 +35,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: "*J Hazad Mater, 389, 122056*"
-summary: IF, 14.224 (2022 JCR), *ENVIRONMENTAL SCIENCES - 3.05% (Q1)*
+summary: IF, 10.588 (2020 JCR), *ENVIRONMENTAL SCIENCES - 3.22% (Q1)*
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
 publication_short: ""
