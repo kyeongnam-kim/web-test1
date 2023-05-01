@@ -1,6 +1,4 @@
 ---
-title: Biomarkers indicate mixture toxicities of fluorene and phenanthrene with
-  endosulfan toward earthworm (Eisenia fetida)
 publication_types:
   - "2"
 authors:
@@ -11,10 +9,6 @@ authors:
   - Yong-Sik Ok
   - Sung-Deuk Choi
   - Sung-Eun Lee
-author_notes: []
-doi: https://doi.org/10.1007/s10653-016-9876-3
-publication: "*Environ Geochem Health, 39(3):307-317*"
-publication_short: ""
 abstract: α-Endosulfan and some polycyclic aromatic compounds (PAHs) are
   persistent in the environment and can reach crop products via contaminated
   agricultural soils. They may even be present as mixtures in the soil and
@@ -32,15 +26,10 @@ abstract: α-Endosulfan and some polycyclic aromatic compounds (PAHs) are
   and molecular changes in the fluorene- and phenanthrene-treated earthworms
   with or without α-endosulfan treatment demonstrated that enhancement of
   glutathione S-transferase activity was dependent on the addition of PAH
-  chemicals, and the HSP70 gene expression increased with the addition of
+  chemicals, and the *HSP70* gene expression increased with the addition of
   α-endosulfan. Taken together, these findings contribute toward understanding
   the adverse effects of pollutants when present separately or in combination
   with other types of chemicals.
-tags:
-  - Endosulfan
-  - PAHs
-  - Combined toxicity
-  - Earthworm
 categories:
   - Earthwom
 image:
@@ -51,10 +40,21 @@ image:
 summary: ""
 url_dataset: ""
 url_project: ""
+publication_short: ""
 url_source: ""
 url_video: ""
+title: Biomarkers indicate mixture toxicities of fluorene and phenanthrene with
+  endosulfan toward earthworm (*Eisenia fetida*)
+author_notes: []
+publication: "*Environ Geochem Health, 39(3):307-317*"
 featured: false
+tags:
+  - Endosulfan
+  - PAHs
+  - Combined toxicity
+  - Earthworm
 projects: []
 date: 2016-10-01T11:07:47.265Z
 publishDate: 2017-01-01T00:00:00.000Z
+doi: https://doi.org/10.1007/s10653-016-9876-3
 ---
