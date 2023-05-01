@@ -22,10 +22,9 @@ event: 2023 Spring Conference of KSAE (Combined conference with The
   Entomological Society of Korea)
 event_url: https://www.entomology.or.kr/notice/view.php?idx=7010&page=1&search=&find=
 publishDate: 2023-04-30T08:27:43.667Z
-slides: PH3 resistance
+slides: 
 url_pdf: ""
-summary: Phytotoxic mechanisms and reduction methods of major quarantine
-  fumigants through transcriptome analysis
+summary: From quarantine to agriculture
 featured: false
 authors: []
 url_video: ""
