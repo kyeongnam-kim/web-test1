@@ -22,7 +22,7 @@ event: 2023 Spring Conference of KSAE (Combined conference with The
   Entomological Society of Korea)
 event_url: https://www.entomology.or.kr/notice/view.php?idx=7010&page=1&search=&find=
 publishDate: 2023-04-30T08:27:43.667Z
-slides: example
+slides: PH3 resistance
 url_pdf: ""
 summary: Phytotoxic mechanisms and reduction methods of major quarantine
   fumigants through transcriptome analysis
@@ -32,7 +32,7 @@ url_video: ""
 url_slides: staticref "uploads/2022KSAE.pdf"
 address:
   street: null
-  city: Gyeongju
+  city: Cheongju
   region: Korea
   postcode: ""
   country: null
