@@ -1,7 +1,4 @@
 ---
-title: "Antimelanogenic effects of curcumin and its dimethoxy derivatives:
-  Mechanistic investigation using B16F10 melanoma cells and zebrafish (Danio
-  rerio) embryos"
 publication_types:
   - "2"
 authors:
@@ -9,12 +6,6 @@ authors:
   - admin
   - Chaeeun Kim
   - Sung-Eun Lee
-author_notes:
-  - Equal contribution
-  - Equal contribution
-doi: https://doi.org/10.3390/foods12050926
-publication: "*Foods, 12(5), 926*"
-publication_short: ""
 abstract: Regulation of melanin production via the MC1R signaling pathway is a
   protective mechanism of the skin of living organisms against exposure to
   ultraviolet rays. The discovery of human skin-whitening agents has been one of
@@ -31,11 +22,6 @@ abstract: Regulation of melanin production via the MC1R signaling pathway is a
   in slight malformations in zebrafish embryos, as indicated by acute toxicity
   tests. In contrast, DMC did not show any biological activity in vitro or in
   vivo. Conclusively, BDMC is a strong candidate as a skin-whitening agent.
-tags:
-  - Antimelanogenic effect
-  - Curcumin
-  - B16F10
-  - Zerbafish
 categories:
   - Natural Products
 image:
@@ -46,10 +32,24 @@ image:
 summary: ""
 url_dataset: ""
 url_project: ""
+publication_short: ""
 url_source: ""
 url_video: ""
+title: "Antimelanogenic effects of curcumin and its dimethoxy derivatives:
+  Mechanistic investigation using B16F10 melanoma cells and zebrafish (*Danio
+  rerio*) embryos"
+author_notes:
+  - Equal contribution
+  - Equal contribution
+publication: "*Foods, 12(5), 926*"
 featured: false
+tags:
+  - Antimelanogenic effect
+  - Curcumin
+  - B16F10
+  - Zerbafish
 projects: []
 date: 2023-02-22T09:34:25.571Z
 publishDate: 2017-01-01T00:00:00.000Z
+doi: https://doi.org/10.3390/foods12050926
 ---
