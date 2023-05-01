@@ -4,10 +4,9 @@ role: Research Professor
 avatar_filename: avatar.jpg
 bio: My research interests include agricultural and environmental toxicology.
 interests:
-  - Molecular mechanism
-  - Environmental toxicology
-  - Multi-Omics
-  - Chemical Biology
+  - Environmental toxicology and ecotoxicology
+  - Mechanisms of action of chemicals on plants and pests using Multi-omics
+  - Environmental impact of agrochemicals and developing sustainable pest management strategies
 social:
   - icon: envelope
     icon_pack: fas
