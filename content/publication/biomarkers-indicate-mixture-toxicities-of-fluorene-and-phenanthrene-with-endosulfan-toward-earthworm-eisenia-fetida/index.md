@@ -44,7 +44,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: Biomarkers indicate mixture toxicities of fluorene and phenanthrene with
-  endosulfan toward earthworm (*Eisenia fetida*)
+  endosulfan toward earthworm (Eisenia fetida)
 author_notes: []
 publication: "*Environ Geochem Health, 39(3):307-317*"
 featured: false
