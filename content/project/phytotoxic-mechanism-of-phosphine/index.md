@@ -3,15 +3,14 @@ slides: example
 url_pdf: ""
 title: Phytotoxic mechanism of fumigants for developing sustainable pest
   management strategies
+date: 2022-12-28T10:23:31.288Z
 summary: ""
 url_video: ""
-date: 2022-12-28T10:23:31.288Z
+tags:
+  - Phytotoxicity
 external_link: ""
 url_slides: ""
 subtitle: How can we understand and manage the strong resistance of PH3?
-tags:
-  - Resistance mechanism
-  - Stored grain insect
 links:
   - icon: ""
     icon_pack: null
