@@ -3,7 +3,7 @@ title: Oral presentation in KSAE - Optimizing Ethyl Formate Fumigation for
   Greenhouse Pest Control
 abstract: This study aims to evaluate the optimized ethyl formate (EF)
   fumigation method for controlling two major insect pests, *Myzus persicae* and
-  Trips palmi, in greenhouse-grown cucurbit crops including watermelon,
+  *Trips palmi*, in greenhouse-grown cucurbit crops including watermelon,
   zucchini, and melon. We investigated (1) EF residue levels and their potential
   environmental impact using headspace-gas chromatography-mass spectrometry
   (HS-GC-MS), (2) phytotoxicity in three crops at different developmental stages
