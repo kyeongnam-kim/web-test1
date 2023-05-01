@@ -63,9 +63,7 @@ url_video: ""
 title: "Acute toxicities of fluorene, fluorene-1-carboxylic acid, and
   fluorene-9-carboxylic acid on zebrafish embryos (*Danio rerio*): Molecular
   mechanisms of developmental toxicities of fluorene-1-carboxylic acid"
-author_notes:
-  - Equal contribution
-  - Equal contribution
+author_notes: []
 publication: "*Chemosphere, 260, 127622*"
 featured: false
 tags:
