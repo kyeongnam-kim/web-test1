@@ -36,8 +36,8 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: "Antimelanogenic effects of curcumin and its dimethoxy derivatives:
-  Mechanistic investigation using B16F10 melanoma cells and zebrafish (*Danio
-  rerio*) embryos"
+  Mechanistic investigation using B16F10 melanoma cells and zebrafish (Danio
+  rerio) embryos"
 author_notes:
   - Equal contribution
   - Equal contribution
