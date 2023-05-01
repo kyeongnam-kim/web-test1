@@ -51,7 +51,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: "Acute and developmental toxic effects of mono-halogenated and halomethyl
-  naphthalenes on zebrafish (*Danio rerio*) embryos: Cardiac malformation after
+  naphthalenes on zebrafish (Danio rerio) embryos: Cardiac malformation after
   2-bromomethyl naphthalene exposure"
 author_notes:
   - Equal contribution
