@@ -57,8 +57,7 @@ experience:
     location: Daegu
     date_start: '2022-03-01'
     date_end: '2022-08-31'
-    description: 
-            * Teaching undergraduate class - Analytical Organic Chemistry Experiment & Agricultural Food Hazardous Substances Informatics
+    description: Teaching undergraduate class - Analytical Organic Chemistry Experiment & Agricultural Food Hazardous Substances Informatics
 
 design:
   columns: '2'
