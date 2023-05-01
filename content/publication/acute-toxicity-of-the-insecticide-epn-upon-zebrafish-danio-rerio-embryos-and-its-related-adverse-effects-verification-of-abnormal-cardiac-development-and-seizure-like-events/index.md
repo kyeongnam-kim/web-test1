@@ -53,7 +53,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: "Acute toxicity of the insecticide EPN upon zebrafish (*Danio rerio*)
+title: "Acute toxicity of the insecticide EPN upon zebrafish (Danio rerio)
   embryos and its related adverse effects: Verification of abnormal cardiac
   development and seizure-like events"
 author_notes:
