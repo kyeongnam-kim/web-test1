@@ -34,7 +34,7 @@ content:
     - name: Ethyl formate for Greenhouse
       tag: Ethyl formate
     - name: Environmental toxicology
-      tag: zebrafish
+      tag: Environmental toxicology
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
@@ -44,7 +44,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: showcase
+  view: Compact
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
