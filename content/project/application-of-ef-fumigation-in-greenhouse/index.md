@@ -3,6 +3,8 @@ title: Application of EF fumigation in greenhouse
 date: 2023-05-01T13:51:10.362Z
 draft: false
 featured: false
+tags:
+  - Ethyl formate
 image:
   filename: featured
   focal_point: Smart
