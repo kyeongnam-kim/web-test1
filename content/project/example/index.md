@@ -1,5 +1,5 @@
 ---
-slides: example
+slides: PH3 resistance
 url_pdf: ""
 title: Phosphine resistant mechanism based on OMICs and CRISPR-Cas9 approaches
 summary: ""
