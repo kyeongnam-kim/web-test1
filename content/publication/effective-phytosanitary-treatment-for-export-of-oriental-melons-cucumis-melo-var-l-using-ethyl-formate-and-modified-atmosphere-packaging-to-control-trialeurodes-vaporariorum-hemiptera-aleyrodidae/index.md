@@ -12,7 +12,7 @@ authors:
   - Sung-Eun Lee
 author_notes: []
 doi: ""
-publication: "*Insects (under-review)*"
+publication: "*Insects 14(5)*"
 publication_short: ""
 abstract: "Trialeurodes vaporariorum (Hemiptera: Aleyrodidae), commonly known as
   greenhouse whitefly, is one of the main insect pests of Oriental melon
