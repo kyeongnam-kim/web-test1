@@ -13,7 +13,7 @@ authors:
   - Byung-Ho Lee
   - Sung-Eun Lee
 author_notes: []
-doi: ""
+doi: https://doi.org/10.3390/insects14060568
 publication: "*Insects 14(6), 568*"
 publication_short: ""
 abstract: The effects of climate change and shifting consumer preferences for
