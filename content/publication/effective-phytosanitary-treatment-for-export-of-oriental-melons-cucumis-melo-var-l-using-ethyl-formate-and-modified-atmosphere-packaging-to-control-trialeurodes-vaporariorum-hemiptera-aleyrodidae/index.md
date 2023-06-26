@@ -11,7 +11,7 @@ authors:
   - Byung-Ho Lee
   - Sung-Eun Lee
 author_notes: []
-doi: ""
+doi: https://doi.org/10.3390/insects14050442
 publication: "*Insects 14(5), 442*"
 publication_short: ""
 abstract: "Trialeurodes vaporariorum (Hemiptera: Aleyrodidae), commonly known as
