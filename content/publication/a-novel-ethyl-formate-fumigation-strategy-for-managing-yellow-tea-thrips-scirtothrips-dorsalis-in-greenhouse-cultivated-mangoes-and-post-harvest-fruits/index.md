@@ -1,6 +1,6 @@
 ---
 title: A Novel Ethyl Formate Fumigation Strategy for Managing Yellow Tea Thrips
-  (*Scirtothrips dorsalis*) in Greenhouse Cultivated Mangoes and Post-Harvest
+  (Scirtothrips dorsalis) in Greenhouse Cultivated Mangoes and Post-Harvest
   Fruits
 publication_types:
   - "2"
