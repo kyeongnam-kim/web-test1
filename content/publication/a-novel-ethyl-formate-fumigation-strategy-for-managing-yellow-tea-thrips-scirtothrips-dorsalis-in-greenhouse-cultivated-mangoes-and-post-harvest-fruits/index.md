@@ -12,7 +12,9 @@ authors:
   - Sangman Lee
   - Byung-Ho Lee
   - Sung-Eun Lee
-author_notes: []
+author_notes:
+  - Equal contribution
+  - Equal contribution
 doi: https://doi.org/10.3390/insects14060568
 publication: "*Insects 14(6), 568*"
 publication_short: ""
