@@ -37,10 +37,9 @@ links:
 publishDate: 2023-08-04T11:15:49.041Z
 tags:
   - Phytotoxicity
-  - Methyl bromide
-  - Phosphine
-  - Transcriptomics
-  - Mode of action
+  - Ethyl formate
+  - Greenhouse
+  - Pest control
 projects:
   - example
 image:
