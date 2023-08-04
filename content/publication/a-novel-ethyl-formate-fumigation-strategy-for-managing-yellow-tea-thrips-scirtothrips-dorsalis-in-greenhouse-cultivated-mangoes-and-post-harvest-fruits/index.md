@@ -37,8 +37,9 @@ abstract: The effects of climate change and shifting consumer preferences for
   showed potential for complete disinfestation of *S. dorsalis* without
   compromising fruit quality.
 tags:
-  - Fumigation; exported oriental melon; the greenhouse whitefly; modified
-    atmosphere packaging; phytosanitary export
+  - Fumigation
+  - Greenhouse
+  - Thrips
 categories:
   - Ethyl formate
 image:
