@@ -45,7 +45,7 @@ image:
   caption: ""
   focal_point: smart
   preview_only: false
-  filename: ""
+  filename: graphical-abstract-re-.jpg
 summary: ""
 url_dataset: ""
 url_project: ""
