@@ -6,7 +6,7 @@ featured: false
 tags:
   - Ethyl formate
 image:
-  filename: featured
+  filename: 그림1.jpg
   focal_point: Smart
   preview_only: false
 ---
