@@ -46,6 +46,6 @@ projects:
 image:
   caption: ""
   focal_point: Right
-  filename: 그림2.png
+  filename: 그림3.png
 url_code: ""
 ---
