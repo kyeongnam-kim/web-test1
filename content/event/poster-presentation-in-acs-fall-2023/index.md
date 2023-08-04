@@ -10,7 +10,7 @@ abstract: >-
   SESSION: Adapting Agricultural Chemistry and Practices to a Changing Climate
 slides: example
 url_pdf: ""
-summary: Optimizing ethyl formate fumigation for sustainable greenhouse pest management in cucurbit crops: Efficacy, phytotoxicity, and residue evaluation
+summary: Optimizing ethyl formate fumigation for sustainable greenhouse pest management in cucurbit crops_Efficacy, phytotoxicity, and residue evaluation
 title: Poster presentation in ACS Fall 2023
 location: Hall A, South Bldg. - Moscone Center, San Fransico, CA
 date: 2023-08-15T03:00:49.027Z
