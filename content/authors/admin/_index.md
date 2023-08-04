@@ -1,12 +1,13 @@
 ---
 title: Kyeongnam Kim
-role: Research Professor
+role: Postdoctoral Researcher
 avatar_filename: avatar.jpg
 bio: My research interests include agricultural and environmental toxicology.
 interests:
   - Environmental toxicology and ecotoxicology
   - Mechanisms of action of chemicals on plants and insects using Multi-omics
-  - Environmental impact of agrochemicals and developing sustainable pest management strategies
+  - Environmental impact of agrochemicals and developing sustainable pest
+    management strategies
 social:
   - icon: envelope
     icon_pack: fas
