@@ -14,8 +14,8 @@ summary: Optimizing ethyl formate fumigation for sustainable greenhouse pest
   management in cucurbit crops_Efficacy, phytotoxicity, and residue evaluation
 title: Poster presentation in ACS Fall 2023
 location: Hall A, South Bldg. - Moscone Center
-date: 2023-08-15T03:00:49.027Z
-date_end: 2023-08-15T05:00:00.000Z
+date: 2023-08-15T12:00:49.027Z
+date_end: 2023-08-15T14:00:00.000Z
 all_day: false
 event: "ACS Fall 2023 "
 event_url: https://www.acs.org/
