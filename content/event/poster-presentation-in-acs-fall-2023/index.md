@@ -25,11 +25,11 @@ url_video: ""
 url_slides: staticref "uploads/2022KSAE.pdf"
 address:
   street: null
-  city: Gyeongju
-  region: Korea
+  city: San Fransico
+  region: CA
   postcode: ""
   country: null
-links:
+#links:
   - icon: twitter
     icon_pack: fab
     name: Follow
