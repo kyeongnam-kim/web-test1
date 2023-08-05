@@ -41,7 +41,7 @@ tags:
   - Greenhouse
   - Pest control
 projects:
-  - example
+  - application-of-ef-fumigation-in-greenhouse
 image:
   caption: ""
   focal_point: Right
