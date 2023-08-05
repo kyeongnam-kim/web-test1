@@ -8,7 +8,7 @@ abstract: >-
   DIVISION: Division of Agrochemicals
 
   SESSION: Adapting Agricultural Chemistry and Practices to a Changing Climate
-slides: example
+#slides: example
 url_pdf: ""
 summary: Optimizing ethyl formate fumigation for sustainable greenhouse pest
   management in cucurbit crops_Efficacy, phytotoxicity, and residue evaluation
@@ -22,18 +22,18 @@ event_url: https://www.acs.org/
 featured: false
 authors: []
 url_video: ""
-url_slides: staticref "uploads/2022KSAE.pdf"
+url_slides: staticref ""
 address:
   street: null
-  city: Gyeongju
-  region: Korea
+  city: San Francisco
+  region: CA
   postcode: ""
   country: null
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow
+#    url: https://twitter.com/georgecushen
 publishDate: 2023-08-04T11:15:49.041Z
 tags:
   - Phytotoxicity
