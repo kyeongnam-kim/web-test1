@@ -22,9 +22,9 @@ social:
     link: https://scholar.google.com/citations?user=t1KDNnUAAAAJ&hl=ko&oi=ao
   - display:
       header: false
-    link: https://orlab.imweb.me/
-    icon_pack: fas
-    icon: flask
+    link: https://www.linkedin.com/in/kyeongnam-kim-ba510a9b/
+    icon_pack: fab
+    icon: linkedin
 organizations:
   - name: Kyungpook National University
     url: https://www.knu.ac.kr
