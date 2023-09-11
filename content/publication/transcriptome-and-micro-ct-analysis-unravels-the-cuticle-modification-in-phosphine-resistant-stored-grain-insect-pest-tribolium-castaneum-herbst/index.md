@@ -13,24 +13,20 @@ abstract: >-
   Conclusion
 
   Overall, integrating physical treatments using synthetic amorphous silicates, water absorbents, and cuticle-damaging materials during PH3 fumigation is recommended for its prolonged and controlled usage in the field.
-slides: example
+slides: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
 authors:
+  - Donghyeon Kim
   - admin
-  - Chaeeun Kim
-  - Jungeun Park
-  - Hwang-ju Jeon
-  - Young Ju Park
-  - Yoon-Ha Kim
-  - Jeong Oh Yang
+  - Yong Ho Lee
   - Sung-Eun Lee
 author_notes:
   - Equal contribution
   - Equal contribution
 publication: "*Chem. Biol. Technol. Agric., 2023, 10:88*"
-summary: IF, 6.8 (2022 JCR), * 2.8% (Q1)*
+summary: IF, 6.8 (2022 JCR), *Agriculture, Multidisciplinary_2.8% (Q1)*
 url_dataset: ""
 url_project: ""
 publication_short: ""
@@ -41,13 +37,14 @@ title: Transcriptome and Micro-CT analysis unravels the cuticle modification in
 doi: https://doi.org/10.1186/s40538-023-00466-9
 featured: true
 tags:
-  - Methyl bromide
-  - A.thaliana
-  - Fumigant
+  - T.castaneum
+  - Resistance
   - Transcriptomics
+  - Micro-CT
 categories:
-  - Plant
-projects: []
+  - Insect
+projects:
+  - Resistance mechanism
 image:
   caption: ""
   focal_point: smart
