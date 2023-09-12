@@ -26,7 +26,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: "*Chem Biol Technol Agric, 10:88*"
-summary: IF, 6.8 (2022 JCR), *Agriculture, Multidisciplinary_2.8% (Q1)*
+summary: IF, 6.6 (2022 JCR), *Agriculture, Multidisciplinary_2.6% (Q1)*
 url_dataset: ""
 url_project: ""
 publication_short: ""
