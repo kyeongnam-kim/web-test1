@@ -49,6 +49,6 @@ My name is Kyeongnam Kim and I am a research professor of Institute of Quality a
 
 My passion lies in understanding the mechanisms of action of chemicals on plants and insects using Multi-omics and evaluating the environmental impact of agrochemicals. I am also committed to developing sustainable pest management strategies. 
 
-With 7 years of experience in the field, I have acquired a deep understanding of the complex interplay between the environment, chemicals, and biological systems. My goal is to apply this knowledge to create practical and effective solutions that balance the needs of agriculture, the environment, and human health. I am excited to continue exploring these topics and making a positive impact in the field through my research.
+With 8 years of experience in the field, I have acquired a deep understanding of the complex interplay between the environment, chemicals, and biological systems. My goal is to apply this knowledge to create practical and effective solutions that balance the needs of agriculture, the environment, and human health. I am excited to continue exploring these topics and making a positive impact in the field through my research.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
