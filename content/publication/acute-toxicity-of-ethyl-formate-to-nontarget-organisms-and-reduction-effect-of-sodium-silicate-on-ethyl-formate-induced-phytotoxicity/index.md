@@ -5,11 +5,14 @@ publication_types:
   - "2"
 authors:
   - admin
+  - Yubin Lee
+  - Yurim Kim
+  - Donghyeon Kim
   - Chaeeun Kim
-  - Jeongeun Park
-  - Woosung Kim
-  - Hwang-Ju Jeon
-  - Jun-Ran Kim
+  - Yerin Cho
+  - Junyeong Park
+  - Yongha You
+  - Byung-Ho Lee
   - Sung-Eun Lee
 author_notes: []
 doi: https://doi.org/10.11626/KJEB.2023.41.3.193
