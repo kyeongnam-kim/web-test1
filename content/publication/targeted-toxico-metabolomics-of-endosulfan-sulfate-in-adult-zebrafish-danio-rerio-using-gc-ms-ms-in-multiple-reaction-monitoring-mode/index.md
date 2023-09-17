@@ -32,7 +32,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: "*J Hazad Mater, 443(A), 130141*"
-summary: IF, 14.224 (2022 JCR), *ENVIRONMENTAL SCIENCES - 3.05% (Q1)*
+summary: IF, 14.224 (2021 JCR), *ENVIRONMENTAL SCIENCES - 3.05% (Q1)*
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
 publication_short: ""
@@ -45,7 +45,11 @@ subtitle: ""
 doi: https://doi.org/10.1016/j.jhazmat.2022.130141
 featured: true
 tags:
-  - FumigationMechanism of toxicityEthylenePhotoperiodElectron transport chain
+  - Fumigation
+  - Mechanism of toxicity
+  - Ethylene
+  - Photoperiod
+  - Electron transport chain
 categories:
   - Plant
 projects:
