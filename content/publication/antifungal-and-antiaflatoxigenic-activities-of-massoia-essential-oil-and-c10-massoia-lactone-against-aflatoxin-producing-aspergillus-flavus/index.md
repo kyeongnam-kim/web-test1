@@ -4,12 +4,10 @@ title: Antifungal and Antiaflatoxigenic Activities of Massoia Essential Oil and
 publication_types:
   - "2"
 authors:
+  - Yubin Lee
+  - Soo Jean Park
   - admin
-  - Dongbin Kim
-  - Soon Hwa Kwon
-  - Gwang-Hyun Roh
-  - Sangman Lee
-  - Byung-Ho Lee
+  - Tae-Oh Kim
   - Sung-Eun Lee
 author_notes:
   - Equal contribution
