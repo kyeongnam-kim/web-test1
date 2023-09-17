@@ -26,11 +26,8 @@ abstract: >-
   observed in watermelon leaves treated with a concentration of 7.5 g m-3
    EF, and when treated with a concentration of 10.0g m-3, it was confirmed that the edges of watermelon leaves were charred and seemed to be damaged by acids. Zucchini and melon, and other cucurbits, showed strong damage to the leaves when treated with a concentration of 10 g m-3, and sodium silicate, at concentrations of 10% and 20%, was used to reduce phytotoxicity. Therefore, acute toxicity towards nontarget organisms and phytotoxicity during the fumigation of EF should be reduced for efficient agricultural pest control.
 tags:
-  - Quarantine fumigant
   - Phytotoxicity mechanism
-  - Reactive oxidative stress
-  - Glutathione
-  - Methyl bromide
+  - Ethyl formate
 categories:
   - Plant
 image:
@@ -44,7 +41,8 @@ url_project: ""
 url_source: ""
 url_video: ""
 featured: false
-projects: []
+projects:
+  - Ethyl formate
 date: 2023-09-30T01:31:31.292Z
 publishDate: 2017-01-01T00:00:00.000Z
 ---
