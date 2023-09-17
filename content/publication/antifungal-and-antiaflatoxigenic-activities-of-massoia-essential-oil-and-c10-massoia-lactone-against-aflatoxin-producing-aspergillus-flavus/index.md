@@ -36,11 +36,10 @@ abstract: Fungal infection and mycotoxin contamination are major hazards to the
   States (FEMA), and MEO is a more suitable substance than C10 because of its
   wider range of uses and higher allowed concentration than C10.
 tags:
-  - Fumigation
-  - Greenhouse
-  - Thrips
+  - Essential oil
+  - A.flavus
 categories:
-  - Ethyl formate
+  - Natural Products
 image:
   caption: ""
   focal_point: smart
@@ -52,8 +51,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 featured: false
-projects:
-  - Ethyl formate
+projects: []
 date: 2023-09-16T01:23:24.049Z
 publishDate: 2017-01-01T00:00:00.000Z
 ---
