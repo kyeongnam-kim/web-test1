@@ -46,14 +46,14 @@ title: Optimizing ethyl formate fumigation in greenhouse cucurbit crops for
 doi: https://doi.org/10.1186/s40538-023-00486-5
 featured: true
 tags:
-  - T.castaneum
-  - Resistance
-  - Transcriptomics
-  - Micro-CT
+  - Residue analysis
+  - Phytotoxicity
+  - Ethylformate
 categories:
   - Insect
+  - Plant
 projects:
-  - Resistance mechanism
+  - Ethylformate for Greenhouse
 image:
   caption: ""
   focal_point: smart
