@@ -20,9 +20,16 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
 authors:
-  - Donghyeon Kim
   - admin
-  - Yong Ho Lee
+  - Chaeeun Kim
+  - Tae Hyung Kwon
+  - Hwang-Ju Jeon
+  - Yurim Kim
+  - Yerin Cho
+  - Donghyeon Kim
+  - Yubin Lee
+  - Dongbin Kim
+  - Byung-Ho Lee
   - Sung-Eun Lee
 author_notes:
   - Equal contribution
