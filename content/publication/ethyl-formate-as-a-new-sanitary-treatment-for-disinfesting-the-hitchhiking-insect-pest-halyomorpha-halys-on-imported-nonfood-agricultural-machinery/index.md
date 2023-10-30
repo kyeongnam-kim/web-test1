@@ -5,13 +5,13 @@ title: Ethyl Formate as a New Sanitary Treatment for Disinfesting the
 publication_types:
   - "2"
 authors:
-  - Min-Ji Kim
-  - Dayun Kang
-  - GyuDae Lee
   - admin
-  - Jinnam Kim
-  - Jae-Ho Shin
-  - Seungjun Lee
+  - Dongbin Kim
+  - Byung-Ho Lee
+  - Gwang Hyun Roh
+  - Kyung Won Kim
+  - Hwan-Young Jeon
+  - Sung-Eun Lee
 author_notes: []
 doi: https://doi.org/10.3390/app132111764
 publication: "*Applied Sciences, 13(21), 11764*"
@@ -36,15 +36,14 @@ abstract: With an increase in the international trade of agricultural and
   fumigation on imported agricultural machinery could be an effective method
   without causing mechanical damage.
 tags:
-  - Microcystin
-  - Microbiome
-  - LC-MS/MS
+  - Ethyl formate
+  - Quarantine
 categories: []
 image:
   caption: ""
   focal_point: smart
   preview_only: false
-  filename: 1-s2.0-s016041202300541x-gr4_lrg.jpg
+  filename: applsci-13-11764-g002.png
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -52,6 +51,6 @@ url_source: ""
 url_video: ""
 featured: false
 projects: []
-date: 2023-10-30T08:38:21.509Z
+date: 2023-10-27T08:38:21.509Z
 publishDate: 2017-01-01T00:00:00.000Z
 ---
