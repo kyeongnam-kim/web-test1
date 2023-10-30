@@ -61,6 +61,6 @@ url_video: ""
 featured: false
 projects:
   - Ethyl formate
-date: 2023-10-30T08:33:32.559Z
+date: 2023-11-01T08:33:32.559Z
 publishDate: 2017-01-01T00:00:00.000Z
 ---
