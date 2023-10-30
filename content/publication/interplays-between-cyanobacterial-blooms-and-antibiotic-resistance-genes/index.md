@@ -3,13 +3,13 @@ title: Interplays between Cyanobacterial Blooms and Antibiotic Resistance Genes
 publication_types:
   - "2"
 authors:
+  - Min-Ji Kim
+  - Dayun Kang
+  - GyuDae Lee
   - admin
-  - Dongbin Kim
-  - Soon Hwa Kwon
-  - Gwang-Hyun Roh
-  - Sangman Lee
-  - Byung-Ho Lee
-  - Sung-Eun Lee
+  - Jinnam Kim
+  - Jae-Ho Shin
+  - Seungjun Lee
 author_notes:
   - Equal contribution
   - Equal contribution
@@ -46,21 +46,19 @@ tags:
   - Microcystin
   - Microbiome
   - LC-MS/MS
-categories:
-  - Ethyl formate
+categories: []
 image:
   caption: ""
   focal_point: smart
   preview_only: false
-  filename: graphical-abstract-re-.jpg
+  filename: 1-s2.0-s016041202300541x-gr4_lrg.jpg
 summary: ""
 url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
 featured: false
-projects:
-  - Ethyl formate
+projects: []
 date: 2023-11-01T08:33:32.559Z
 publishDate: 2017-01-01T00:00:00.000Z
 ---
