@@ -4,11 +4,16 @@ title: "The Alteration of the Gut Microbiome during Ramadan Offers a Novel
 publication_types:
   - "2"
 authors:
-  - Yubin Lee
-  - Soo Jean Park
-  - admin
-  - Tae-Oh Kim
+  - YoungJae Jo
+  - GyuDae Lee
+  - Sajjad Ahmad
+  - HyunWoo Son
+  - Min-Ji Kim
+  - Amani Sliti
+  - Seungjun Lee
+  - Kyeongnam Kim
   - Sung-Eun Lee
+  - Jae-Ho Shin
 author_notes:
   - Equal contribution
   - Equal contribution
