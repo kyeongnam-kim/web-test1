@@ -10,9 +10,7 @@ authors:
   - Jinnam Kim
   - Jae-Ho Shin
   - Seungjun Lee
-author_notes:
-  - Equal contribution
-  - Equal contribution
+author_notes: []
 doi: https://doi.org/10.1016/j.envint.2023.108268
 publication: "*Environment International, 181, 108268*"
 publication_short: ""
