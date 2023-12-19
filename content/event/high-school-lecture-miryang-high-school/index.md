@@ -19,8 +19,8 @@ url_video: ""
 url_slides: staticref ""
 address:
   street: null
-  city: San Francisco
-  region: CA
+  city: Miryang
+  region: Gyeongsangnam-do
   postcode: ""
   country: null
 publishDate: 2023-12-18T14:43:00.492Z
