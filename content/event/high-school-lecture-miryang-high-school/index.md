@@ -9,7 +9,7 @@ date: 2023-12-18T05:30:00.485Z
 date_end: 2023-12-18T07:30:00.000Z
 all_day: false
 links: null
-event: "ACS Fall 2023 "
+event: Lecture
 event_url: .
 featured: false
 authors: []
@@ -23,16 +23,12 @@ address:
   country: null
 publishDate: 2023-12-18T14:43:00.492Z
 tags:
-  - Phytotoxicity
-  - Ethyl formate
-  - Greenhouse
-  - Pest control
-projects:
-  - application-of-ef-fumigation-in-greenhouse
+  - Climate change
+projects: []
 image:
   caption: ""
   focal_point: Right
-  filename: kakaotalk_photo_2023-09-01-19-58-01.jpeg
+  filename: kakaotalk_photo_2023-12-19-23-44-53-003jpeg.jpeg
 url_code: ""
 ---
-![](kakaotalk_photo_2023-12-19-23-44-53-003jpeg.jpeg)
+![](kakaotalk_photo_2023-12-19-23-45-11-006jpeg.jpeg)
