@@ -6,7 +6,7 @@ url_pdf: ""
 summary: Optimizing ethyl formate fumigation for sustainable greenhouse pest
   management in cucurbit crops_Efficacy, phytotoxicity, and residue evaluation
 title: "High School Lecture: \bAttitude to cope with environmental climate change"
-location: Miryang high school, Miryang
+location: Miryang high school
 date: 2023-12-18T05:30:00.485Z
 date_end: 2023-12-18T07:30:00.000Z
 all_day: false
