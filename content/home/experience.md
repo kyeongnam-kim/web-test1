@@ -26,7 +26,7 @@ experience:
     company: US department of agriculture - Agricultural research service (USDA-ARS)
     company_url: ''
     company_logo: USDA
-    location: Hilo
+    location: Hilo, HI
     date_start: '2024-02-02'
     date_end: ''
     description: |2-
@@ -39,7 +39,7 @@ experience:
     company: Institute of Quality and Safety Evaluation of Agricultural Products, KNU
     company_url: ''
     company_logo: KNU
-    location: Daegu
+    location: Daegu, KR
     date_start: '2023-03-01'
     date_end: ''
     description: |2-
@@ -53,7 +53,7 @@ experience:
     company: Institute of Quality and Safety Evaluation of Agricultural Products, KNU
     company_url: ''
     company_logo: KNU
-    location: Daegu
+    location: Daegu, KR
     date_start: '2022-09-01'
     date_end: '2023-02-28'
     description: |2-
@@ -67,7 +67,7 @@ experience:
     company: Department of Applied Biosciences (4th BK21 program), KNU
     company_url: ''
     company_logo: KNU
-    location: Daegu
+    location: Daegu, KR
     date_start: '2022-03-01'
     date_end: '2022-08-31'
     description: Teaching undergraduate class - Analytical Organic Chemistry Experiment & Agricultural Food Hazardous Substances Informatics
