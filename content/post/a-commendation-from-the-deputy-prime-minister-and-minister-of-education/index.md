@@ -9,11 +9,8 @@ featured: false
 authors:
   - admin
 lastmod: 2020-12-13T00:00:00.000Z
-tags:
-  - Ethyl formate
-  - Phytotoxicity
-categories:
-  - Plant
+tags: []
+categories: []
 projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
@@ -28,6 +25,8 @@ This commendation is awarded to individuals who have achieved outstanding result
 
 The BK21 Project's Education and Research Team at Kyungpook National University has produced outstanding participants for the third consecutive year.
 
-Dr. Kyungnam Kim, affiliated with the Education and Research Team for Developing Data-Based Agricultural Production Innovation Technology Personnel, has published a total of 33 SCIE-level papers through various omics techniques applied to research on subterranean pests. Additionally, he has authored 6 papers as the first author in the top 5% of JCR (Journal Citation Reports) publications.
+Dr. Kyeongnam Kim, affiliated with the Education and Research Team for Developing Data-Based Agricultural Production Innovation Technology Personnel, has published a total of 33 SCIE-level papers through various omics techniques applied to research on subterranean pests. Additionally, he has authored 6 papers as the first author in the top 5% of JCR (Journal Citation Reports) publications.
 
-Dr. Kyungnam Kim has been participating as a graduate student and junior researcher from the 3rd stage of the BK21 Project to the 4th stage, totaling 6 years of participation.
+Dr. Kyeongnam Kim has been participating as a graduate student and junior researcher from the 3rd stage of the BK21 Project to the 4th stage, totaling 6 years of participation.
+
+<https://www.knu.ac.kr/wbbs/wbbs/bbs/btin/viewBtin.action?bbs_cde=28&btin.bbs_cde=28&btin.doc_no=1330866&btin.appl_no=000000&btin.page=2&btin.search_type=&btin.search_text=&popupDeco=&btin.note_div=row&menu_idx=214>
