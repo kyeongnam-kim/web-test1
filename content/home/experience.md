@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Postdoctoral researcher
-    company: US department of agriculture - Agricultural research service (USDA-ARS)
+    company: US department of agriculture - Agricultural research service
     company_url: ''
     company_logo: USDA
     location: Hilo, HI
