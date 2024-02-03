@@ -1,6 +1,6 @@
 ---
 title: Kyeongnam Kim
-role: Research professor
+role: Postdoctoral Researcher
 avatar_filename: avatar.jpg
 bio: My research interests include agricultural and environmental toxicology.
 interests:
