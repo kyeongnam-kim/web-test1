@@ -22,6 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Postdoctoral researcher
+    company: US department of agriculture - Agricultural research service (USDA-ARS)
+    company_url: ''
+    company_logo: USDA
+    location: Hilo
+    date_start: '2024-02-02'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Molecular biological pest management using CRISPR-Cas9 
+        * New insecticide discovery
+    
   - title: Research Professor
     company: Institute of Quality and Safety Evaluation of Agricultural Products, KNU
     company_url: ''
