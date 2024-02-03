@@ -26,8 +26,8 @@ social:
     icon_pack: fab
     icon: linkedin
 organizations:
-  - name: Kyungpook National University
-    url: https://www.knu.ac.kr
+  - name: USDA-ARS
+    url: https://www.ars.usda.gov/pacific-west-area/hilo-hi/daniel-k-inouye-us-pacific-basin-agricultural-research-center/
 education:
   courses:
     - course: Ph.D. in Applied Biosciences – Environmental Toxicology
@@ -45,7 +45,7 @@ highlight_name: true
 first_name: Kyeongnam
 email: kn1188@knu.ac.kr
 ---
-My name is Kyeongnam Kim, and I am a postdoctoral researcher at USDA-ARS in Hilo, Hawaii.
+I am Kyeongnam Kim, a postdoctoral researcher specializing in molecular biology at the USDA-ARS Daniel K. Inouye U.S. Pacific Basin Agricultural Research Center, located in Hilo, Hawaii.
 
 My passion lies in understanding the mechanisms of action of chemicals on plants and insects using Multi-omics and evaluating the environmental impact of agrochemicals. I am also committed to developing sustainable pest management strategies. 
 
