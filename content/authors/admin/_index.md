@@ -45,7 +45,7 @@ highlight_name: true
 first_name: Kyeongnam
 email: kn1188@knu.ac.kr
 ---
-My name is Kyeongnam Kim and I am a research professor of Institute of Quality and Safety Evaluation of Agricultural Products at KNU in the field of Environmental Toxicology and Ecotoxicology. 
+My name is Kyeongnam Kim, and I am a postdoctoral researcher at USDA-ARS in Hilo, Hawaii.
 
 My passion lies in understanding the mechanisms of action of chemicals on plants and insects using Multi-omics and evaluating the environmental impact of agrochemicals. I am also committed to developing sustainable pest management strategies. 
 
