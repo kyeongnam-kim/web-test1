@@ -4,15 +4,16 @@ title: "Microplastic Accumulation Dynamics in Han River Headwaters: Sediment
 publication_types:
   - "2"
 authors:
-  - Jungeun Park
-  - Yurim Kim
+  - Yunseo Cho
   - Hwang-Ju Jeon
-  - admin
-  - Chaeeun Kim
-  - Seung ki Lee
-  - Jino Son
   - Sung-Eun Lee
+  - Chaeeun Kim
+  - Gyuwon Kim
+  - admin
+  - Yong-Kwan Kim
+  - Sang-Ryong Lee
 author_notes:
+  - Equal contribution
   - Equal contribution
   - Equal contribution
 doi: https://doi.org/10.1016/j.jhazmat.2024.134445
