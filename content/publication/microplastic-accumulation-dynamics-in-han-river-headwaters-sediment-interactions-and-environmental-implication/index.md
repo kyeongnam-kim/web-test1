@@ -38,12 +38,9 @@ abstract: The prevalence of microplastic (MP) contamination has become a
   surface layer. MPs distribution also exhibited seasonal variation as larger
   inflows and flow rates varied with season.
 tags:
-  - Zebrafish
-  - PAHs
-  - Pollutants
-  - Developmental toxicity
-categories:
-  - FISH
+  - Pollutant
+  - Microplastic
+categories: []
 image:
   caption: ""
   focal_point: smart
