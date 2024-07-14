@@ -45,7 +45,7 @@ highlight_name: true
 first_name: Kyeongnam
 email: kyeongnam.kim@usda.gov
 ---
-I am Kyeongnam Kim, a postdoctoral researcher specializing in molecular biology at the USDA-ARS Daniel K. Inouye U.S. Pacific Basin Agricultural Research Center (USDA-ARS-PBARC), located in Hilo, Hawaii.
+I am Kyeongnam Kim, a postdoctoral researcher specializing in molecular biology at the Tropical Crop and Commodity Protection Research Unit, the USDA-ARS Daniel K. Inouye U.S. Pacific Basin Agricultural Research Center (USDA-ARS-PBARC), located in Hilo, Hawaii.
 
 My passion lies in understanding the mechanisms of action of chemicals on plants and insects using Multi-omics and evaluating the environmental impact of agrochemicals. I am also committed to developing sustainable pest management strategies. 
 
