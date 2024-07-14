@@ -32,8 +32,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Molecular biological pest management using CRISPR-Cas9 
-        * New insecticide discovery
+        * Molecular biological pest management for controlling Oriental fruit fly (_B.dorsalis_)
+        * GPCR-based new insecticide discovery
     
   - title: Research Professor
     company: Institute of Quality and Safety Evaluation of Agricultural Products, KNU
@@ -41,7 +41,7 @@ experience:
     company_logo: KNU
     location: Daegu, KR
     date_start: '2023-03-01'
-    date_end: ''
+    date_end: '2024-01-31'
     description: |2-
         Responsibilities include:
         
