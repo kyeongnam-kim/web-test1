@@ -13,14 +13,14 @@ subtitle:
 
 content:
   # Contact details (edit or remove options as required)
-  email: kn1188@knu.ac.kr
+  email: kyeongnam.kim@usda.gov
   address:
-    street: 80 Daehak-ro, Bukgu, Kyungpook National University (KNU)
-    city: Daegu
-    region: 
-    postcode: '41566'
-    country: Republic of Korea
-    country_code: KR
+    street: 64 Nowelo St., USDA-ARS-PBARC
+    city: Hilo
+    region: HI
+    postcode: '96720'
+    country: USA
+    country_code: US
   
   contact_links:
     - icon: twitter
