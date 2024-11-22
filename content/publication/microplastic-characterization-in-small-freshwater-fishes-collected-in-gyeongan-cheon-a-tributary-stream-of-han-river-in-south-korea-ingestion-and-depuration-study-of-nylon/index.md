@@ -44,7 +44,7 @@ image:
   caption: ""
   focal_point: smart
   preview_only: false
-  filename: ""
+  filename: 1-s2.0-s0269749124017597-ga1_lrg.jpg
 summary: ""
 url_dataset: ""
 url_project: ""
