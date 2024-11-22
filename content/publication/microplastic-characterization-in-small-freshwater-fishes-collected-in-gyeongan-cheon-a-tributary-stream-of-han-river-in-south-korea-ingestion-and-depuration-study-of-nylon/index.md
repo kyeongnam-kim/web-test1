@@ -5,16 +5,14 @@ title: "Microplastic characterization in small freshwater fishes collected in
 publication_types:
   - "2"
 authors:
-  - admin
-  - Yubin Lee
-  - Yurim Kim
-  - Donghyeon Kim
   - Chaeeun Kim
-  - Yerin Cho
-  - Junyeong Park
-  - Yongha You
-  - Byung-Ho Lee
-  - Sung-Eun Lee
+  - Sang-Ryong Lee
+  - Hwang-Ju Jeon
+  - admin
+  - Donghyeon Kim
+  - Hyoyoung Lee
+  - Sunku Park
+  - Sung-Eu
 author_notes: []
 doi: https://doi.org/10.1016/j.envpol.2024.125044
 publication: "*Environmental Pollution, 363(1):125044*"
