@@ -38,10 +38,8 @@ abstract: Plastic inventions have had an impact on various industries, and
   ecosystems and the need to understand MP ingestion and excretion patterns in
   small freshwater fish species.
 tags:
-  - Phytotoxicity mechanism
-  - Ethyl formate
-categories:
-  - Plant
+  - Microplastic
+categories: []
 image:
   caption: ""
   focal_point: smart
@@ -54,7 +52,7 @@ url_source: ""
 url_video: ""
 featured: false
 projects:
-  - Ethyl formate
+  - Fish
 date: 2024-11-22T08:19:24.831Z
 publishDate: 2017-01-01T00:00:00.000Z
 ---
