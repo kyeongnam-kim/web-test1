@@ -35,7 +35,7 @@ url_video: ""
 title: Transcriptome and Micro-CT analysis unravels the cuticle modification in
   phosphine-resistant stored grain insect pest, Tribolium castaneum (Herbst)
 doi: https://doi.org/10.1186/s40538-023-00466-9
-featured: true
+featured: false
 tags:
   - T.castaneum
   - Resistance
